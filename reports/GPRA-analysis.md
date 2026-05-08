@@ -9,6 +9,18 @@
 
 ---
 
+## 🚩 RED FLAGS
+
+| # | Red Flag | Severity | Detail |
+|---|----------|----------|--------|
+| 1 | **Low market cap + thin liquidity** | 🟡 HIGH | IDR 453B market cap = tiny. Institutional fund minimum sizes exclude GPRA. Daily trading volume may be insufficient to exit a sizable position without slippage. |
+| 2 | **Revenue recognition timing** | 🟡 MEDIUM | Property developers recognize revenue on project completion, not on sales. Strong presales today may take 12-24 months to appear in reported earnings. Investor must trust leading indicators (presales). |
+| 3 | **Property cycle sensitivity** | 🟡 MEDIUM | Interest rates directly affect KPR (mortgage) affordability. Rate cuts are a tailwind, but if rates stay elevated, upper-mid market buyers may defer purchases. |
+| 4 | **Nine-subsidiary structure** | 🟡 MEDIUM | Nine subsidiaries add complexity and potential for related-party opacity. While no specific red flags found, structure deserves monitoring. |
+| 5 | **Price spike anomaly** | 🟡 LOW | Stock jumped +9.91% intraday in May 2026. For a small-cap, sharp single-day moves can signal either genuine discovery or retail speculation. Monitor for follow-through volume. |
+
+---
+
 ## 1. Quality Filter
 
 ### Profitability & Capital Efficiency
