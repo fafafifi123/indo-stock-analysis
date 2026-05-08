@@ -9,6 +9,19 @@
 
 ---
 
+## 🚩 RED FLAGS
+
+| # | Red Flag | Severity | Detail |
+|---|----------|----------|--------|
+| 1 | **NIM compression to 4.8%** | 🟡 MEDIUM | NIM fell from 5.3% (Q4 2024) to 4.8% (Q1 2025) — largest single-quarter drop. Higher funding costs + deposit repricing. Full recovery depends on BI rate cuts. |
+| 2 | **BRIS deconsolidation noise** | 🟡 MEDIUM | Post-BRIS separation creates YoY comparability issues. Some of the reported growth is accounting-driven rather than organic. |
+| 3 | **SOE governance discount** | 🟡 MEDIUM | Government ownership means potential political interference in lending decisions (e.g., directed lending to state projects at below-market rates). Standard SOE risk. |
+| 4 | **NIM 2026F guidance: 4.6-4.8%** | 🟡 MEDIUM | Management guided lower NIM ahead — compresses net income growth even with loan growth of 7-9%. Earnings sensitivity to NIM is high. |
+
+*BMRI has the fewest red flags of any stock in this universe — this is why it's Tier 1.*
+
+---
+
 ## 1. Quality Filter
 
 ### Profitability & Capital Efficiency
