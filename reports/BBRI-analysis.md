@@ -9,6 +9,18 @@
 
 ---
 
+## 🚩 RED FLAGS
+
+| # | Red Flag | Severity | Detail |
+|---|----------|----------|--------|
+| 1 | **Micro NPL: 3.86% (rising)** | 🔴 CRITICAL | Up +90bps YoY; micro segment = 44.7% of total loans (IDR 632.8T). SML (Special Mention Loans) at 6.76%. NPL in the core business is rising, not falling. |
+| 2 | **Net profit -11.5% in 1H 2025** | 🔴 HIGH | First significant profit decline in years. NIM compression + rising provisions = profit squeeze from both sides. |
+| 3 | **Micro segment growth near zero** | 🟡 MEDIUM | Micro loan book grew only 1.6% YoY — effectively stagnant. The core engine is stalling. |
+| 4 | **NIM pressure ongoing** | 🟡 MEDIUM | Net Interest Margin declining as funding costs rise and micro yields compress due to KUR rate caps. |
+| 5 | **Negative EPS trend (TTM)** | 🟡 MEDIUM | -5.5% YoY EPS growth. PEG ratio is not meaningful; EPS trending in wrong direction. |
+
+---
+
 ## 1. Quality Filter
 
 ### Profitability & Capital Efficiency
