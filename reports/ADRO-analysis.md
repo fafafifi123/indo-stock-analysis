@@ -11,6 +11,18 @@
 
 ---
 
+## 🚩 RED FLAGS
+
+| # | Red Flag | Severity | Detail |
+|---|----------|----------|--------|
+| 1 | **ROIC barely above WACC (8.36% vs 8.26%)** | 🔴 HIGH | A company whose ROIC = WACC creates zero economic profit. Every IDR of new investment earns exactly its cost of capital — no compounding, no value creation above the hurdle rate. |
+| 2 | **99.96% dividend payout ratio** | 🟡 MEDIUM | Distributing essentially ALL earnings. Nothing retained for reinvestment. Signals management has no high-ROIC internal investment opportunities — not the hallmark of a quality compounder. |
+| 3 | **Transformation uncertainty (post-AADI)** | 🟡 MEDIUM | ADRO is now a holding company investing in alumina, renewable energy, and metcoal. None of these are yet proven ROIC generators. Management is betting shareholder capital on unproven businesses. |
+| 4 | **Coal price headwinds** | 🟡 MEDIUM | Thermal coal prices hit 4-year lows in 2025. While ADRO's remaining coal is metallurgical (more resilient), the sector sentiment weighs on the stock. |
+| 5 | **Goodwill/family concentration** | 🟡 MEDIUM | Garibaldi Thohir family controls 47.8%. While management has been excellent historically, concentrated family control always carries governance risk. |
+
+---
+
 ## 1. Quality Filter
 
 ### Profitability & Capital Efficiency
