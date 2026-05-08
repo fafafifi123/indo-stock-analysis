@@ -9,6 +9,19 @@
 
 ---
 
+## 🚩 RED FLAGS
+
+| # | Red Flag | Severity | Detail |
+|---|----------|----------|--------|
+| 1 | **Data center revenue concentration** | 🟡 MEDIUM | Estimated 30-40% of FY2025 revenue is data center-related. If hyperscaler capex pauses (tech downturn), this segment could evaporate quickly. Not diversified enough yet. |
+| 2 | **Construction cycle risk** | 🟡 MEDIUM | All construction companies face lumpy revenue as projects are completed. A sudden drop in new contract wins would hurt the stock despite strong historical performance. |
+| 3 | **Small cap liquidity** | 🟡 MEDIUM | Market cap IDR 3.7T — institutional funds face position-size constraints. Thin daily volumes mean a large seller can move the price significantly. |
+| 4 | **Limited analyst coverage** | 🟡 LOW | Under-covered means pricing inefficiency (good for investors) but also less information flow. Earnings surprises can be large in either direction. |
+
+*TOTL is one of the cleanest financial profiles in this universe: zero debt, rising margins, no governance concerns.*
+
+---
+
 ## 1. Quality Filter
 
 ### Profitability & Capital Efficiency
