@@ -1,140 +1,175 @@
-# Indonesia Stock Fundamental Analysis
-## High-Conviction Quality Compounder Screening
+# Indonesia Stock Hidden Gem Analysis
+## GARP + Special Situations Framework — IDX Equity Research
 
-**Analysis Date:** May 8, 2026  
-**Universe:** IDX-listed Indonesian equities (7 stocks)  
-**Framework:** Quality Filter + Governance + Valuation (DCF) + Momentum  
-**Data sources:** IDX filings, IDNFinancials, Stockbit, Samuel Sekuritas, DBS Research, Alpha Spread, Simply Wall St, NH Korindo, InfoSAWIT
-
----
-
-## Master Scorecard
-
-| Stock | Company | Price (IDR) | P/E | Quality Tier | Verdict | Upside Est. | Downside Est. | R/R Ratio | Momentum |
-|-------|---------|------------|-----|--------------|---------|-------------|---------------|-----------|----------|
-| [BMRI](reports/BMRI-analysis.md) | Bank Mandiri | 4,510 | 7.1x | **Tier 1 ★** | ✅ Undervalued | +35% | -16% | **2.2 : 1** | 📈 Accumulation |
-| [TOTL](reports/TOTL-analysis.md) | Total Bangun Persada | 1,075 | 10x | **Tier 1 ★** | ✅ Undervalued | +40% | -26% | **1.5 : 1** | 📈 Accumulation |
-| [BBRI](reports/BBRI-analysis.md) | Bank Rakyat Indonesia | 3,160 | 9.8x | Tier 2 | ⚠️ Recovery Play | +33% | -11% | **3.0 : 1** | ➡️ Neutral/Turning |
-| [GPRA](reports/GPRA-analysis.md) | Perdana Gapura Prima | 122 | 4.3x | Tier 2 | 🔍 Deep Value | +64% | -26% | **2.5 : 1** | 📈 Early Discovery |
-| [GOTO](reports/GOTO-analysis.md) | GoTo Gojek Tokopedia | 50 | 122x fwd | Tier 3 | ⚡ Speculative | +70%* | -70% | **1.0 : 1** | 🔄 Turnaround Bet |
-| [ADRO](reports/ADRO-analysis.md) | Alamtri Resources | 2,550 | 3-7x | Tier 2 | 💰 Income Play | +14% | -25% | **0.6 : 1** | ➡️ Neutral |
-| [TBLA](reports/TBLA-analysis.md) | Tunas Baru Lampung | 670 | 5.7x | Tier 4 ✗ | 🚫 Avoid/Speculative | +12% | -43% | **0.3 : 1** | 🏛️ Policy-Driven Only |
-
-*GOTO upside based on analyst consensus target of IDR 84.82; downside based on failed profitability scenario
+**Latest Analysis Date:** June 7, 2026
+**Universe:** 8 IDX-listed Indonesian equities
+**Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
+**Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, Quartr, Yahoo Finance
 
 ---
 
-## Red Flag Summary Table
+## ⚠️ Critical Macro Context — June 2026
 
-This is the most important section. Read before investing.
+| Indicator | Level | Implication |
+|-----------|-------|-------------|
+| IHSG YTD Return | **-33%** | Severe bear market — adjust R/R requirements |
+| IDR/USD | **17,816** | Near multi-year low; IDR depreciation risk |
+| BI Rate | **4.75%** | Rate-sensitive stocks face headwinds |
+| Foreign Net Flow | **-IDR 67T YTD** | Systemic liquidity withdrawal |
+| MSCI Review | **June 19, 2026** | Frontier downgrade risk — forced selling |
 
-| Stock | 🔴 Critical | 🟡 Watch | 🟢 Green |
-|-------|------------|---------|---------|
-| **BMRI** | None | NIM compression (4.8%); BRIS deconsolidation noise | ROE 21%+; solid capital; growing loan book |
-| **TOTL** | None | Data center concentration (~35% of mix); construction cycle | Debt-free; record margins; ROIC 24% |
-| **BBRI** | ❌ Micro NPL 3.86% (rising); profit -11.5% 1H25 | Micro loan recovery timing; NIM pressure | Wide moat; 9.4% dividend yield; 5-yr CAGR 18.4% |
-| **GPRA** | None | Low liquidity (small cap IDR 453B); property cycle | P/E 4.3x with +45% presales growth; P/B 0.5x |
-| **GOTO** | ❌ 1.083T shares (mega dilution); P/E 122x; first profit Q1 2026 only | Tokopedia IDR 80T write-off (non-cash); competition | First-ever profit milestone; analyst consensus +70% |
-| **ADRO** | None | ROIC barely above WACC (8.36% vs 8.26%); 100% payout = no reinvestment | 14.5% dividend yield; strong cash; transformation optionality |
-| **TBLA** | ❌ D/E 193%; interest coverage 1.9x; NEGATIVE op. cash flow; governance 8/54 | Thin margin 4%; environmental violations; Moody's withdrew rating | Biodiesel B40→B50 mandate; H1 2025 biodiesel +173% |
-
-**Legend:** 🔴 Critical red flag — reconsider investment thesis | 🟡 Monitor closely | 🟢 Positive indicators
+> **Bear Market Note:** Only BMRI (4.5:1) and TOTL (4.0:1) meet the strict 3:1 minimum R/R threshold. GOTO just clears at 3.7:1. All verdicts are calibrated for this macro reality.
 
 ---
 
-## Quality Tier Definitions
+## June 7, 2026 — Master Scorecard
 
-| Tier | Criteria | Stocks |
-|------|----------|--------|
-| **Tier 1 ★** | ROE >15% sustained, ROIC >15%, clean governance, healthy D/E, wide/narrow moat | BMRI, TOTL |
-| **Tier 2** | Good fundamentals with one or two issues (cyclical stress, small moat, post-restructuring) | BBRI, GPRA, ADRO |
-| **Tier 3** | Speculative / turnaround — not yet established quality track record | GOTO |
-| **Tier 4 ✗** | Fails quality screen on multiple criteria — value trap risk | TBLA |
-
----
-
-## Detailed Findings
-
-### ✅ Tier 1 — Top % Quality Compounders
-
-**BMRI (Bank Mandiri)** — *The clearest quality compounder in this universe*
-- ROE 21%+ sustained 3 years; P/E 7x vs peer avg 21x; improving asset quality; 10.6% dividend yield
-- Q1 2026 profit +16.6% YoY; loan growth 17.4%; Livin' app fee income +19.8% YoY
-- Graham Number: P/B × P/E = 1.48 × 7.05 = **10.4** (benchmark: <22.5 = undervalued)
-- DCF: IDR 5,900-8,300 intrinsic (base/bull); current IDR 4,510 = **31-84% margin of safety**
-
-**TOTL (Total Bangun Persada)** — *Hidden gem, data center beneficiary*
-- Debt-free; ROIC 24%; net profit tripled in 3 years (IDR 91B → IDR 265B); margins expanding every year
-- Data center construction driving FY25 revenue to IDR 3,901B (+26.4%), record gross margin 19.3%
-- DCF intrinsic: IDR 1,847 (conservative) vs price IDR 1,075 = **72% upside**
-- P/E 10x at historical avg, but on dramatically improved earnings base
+| Stock | Company | Price (IDR) | Verdict | 6M Target | Stop Loss | R/R | Momentum |
+|-------|---------|-------------|---------|-----------|-----------|-----|----------|
+| [BMRI](reports/analysis_BMRI_2026-06-07.md) | Bank Mandiri | 4,510 | 💎 **Strong Buy (Gem)** | 5,800 | 3,700 | **4.5:1** ✅ | 📈 Hidden Accumulation |
+| [TOTL](reports/analysis_TOTL_2026-06-07.md) | Total Bangun Persada | 1,075 | 💎 **Strong Buy (Gem)** | 1,350 | 870 | **4.0:1** ✅ | 📈 Relative Outperform |
+| [GOTO](reports/analysis_GOTO_2026-06-07.md) | GoTo Gojek Tokopedia | 50 | ⚡ Speculative Buy | 75 | 35 | **3.7:1** ✅ | 🔄 Post-Earnings Accum. |
+| [BBRI](reports/analysis_BBRI_2026-06-07.md) | Bank Rakyat Indonesia | 3,160 | ✅ Speculative Buy | 3,850 | 2,620 | **2.4:1** | 📈 Early Accumulation |
+| [BMTR](reports/analysis_BMTR_2026-06-07.md) | Global Mediacom | 186 | ⚡ Speculative Buy | 255 | 145 | **2.6:1** | ➡️ Neutral |
+| [TBLA](reports/analysis_TBLA_2026-06-07.md) | Tunas Baru Lampung | 670 | ⚡ Speculative Buy | 900 | 490 | **2.1:1** | 🏛️ Policy-Driven |
+| [ADRO](reports/analysis_ADRO_2026-06-07.md) | Alamtri Resources | 2,550 | 💰 Hold (Income) | 2,850 | 2,050 | **0.6:1** | ➡️ Neutral |
+| [GPRA](reports/analysis_GPRA_2026-06-07.md) | Perdana Gapura Prima | 106 | ⚠️ Hold | 140 | 84 | **1.5:1** | 🔴 Distribution |
 
 ---
 
-### ⚠️ Tier 2 — Quality with Caveats
+## Key Changes vs May 8, 2026 Analysis
 
-**BBRI (Bank Rakyat Indonesia)** — *Temporarily stressed, structurally sound*
-- Micro NPL rising to 3.86%; profit -11.5% 1H25; the bad news is significant but mostly priced in
-- Wide moat in rural micro-lending (BRILink 1M+ agents) remains intact; 5-yr earnings CAGR 18.4%
-- 9.41% dividend yield provides strong downside floor; near 5-year P/E trough at ~9.8x
-- Recovery catalyst: micro NPL plateau expected Q2-Q3 2026 + BI rate cuts
-
-**GPRA (Perdana Gapura Prima)** — *Severely undervalued small cap*
-- P/E 4.3x with H1 2024 presales +45% YoY; P/B ~0.51x (trading below net assets)
-- Conservative DCF: IDR 392/share vs price IDR 122 = **221% upside** (with high execution risk)
-- Risk: Small cap liquidity, property cycle sensitivity, low analyst coverage
-- Unusual trading volume (+9.9% intraday in May 2026) = early discovery signal
-
-**ADRO (Alamtri Resources)** — *Post-spinoff income play, not a compounder*
-- ROIC (8.36%) barely above WACC (8.26%) — essentially zero economic profit spread
-- But: 14.5% dividend yield (99.96% payout); post-AADI transformation underway
-- Not suitable for quality compounder portfolio; excellent for income seekers
+| Stock | Previous | June 7 | Change Driver |
+|-------|----------|--------|--------------|
+| BBRI | ⚠️ Recovery Play | ✅ Speculative Buy ↑ | Q1 profit +13.8%; NIM 7.9% beat |
+| GOTO | ⚡ Speculative | ⚡ Speculative Buy (higher R/R) | First-ever profit; IDR 23T cash; EV/EBITDA 9.4x |
+| TBLA | 🚫 Avoid | ⚡ Speculative Buy ↑ | B50 mandate July 2026; Q1 revenue +8.7% |
+| GPRA | 🔍 Deep Value | ⚠️ Hold ↓ | Q1 profit -82.8% YoY; forward P/E 17.7x |
+| BMTR | 🆕 New | ⚡ Speculative Buy | P/B 0.09x; EV/EBITDA 2.0x; asset play |
+| BMRI | 💎 Strong Buy | 💎 Strong Buy (confirmed) | Q1 +16.6%; analyst target IDR 7,660 |
+| TOTL | ✅ Undervalued | 💎 Strong Buy (upgraded) | Q1 +37.4% profit; debt-free; data center |
+| ADRO | 💰 Income Play | 💰 Hold (Income) | Unchanged — ROIC barely above WACC |
 
 ---
 
-### ⚡ Tier 3 — Speculative
+## Quality Tier Rankings — June 2026
 
-**GOTO (GoTo Gojek Tokopedia)** — *Turnaround story at premium price*
-- First-ever profitable quarter Q1 2026 (IDR 171B net profit); significant milestone
-- BUT: P/E 122x, EV/EBITDA 43x, 1.083 trillion shares outstanding — priced for perfection
-- Analyst consensus target IDR 84.82 (+70% upside) — but bear case is -70% if profitability fails
-- Binary risk: works brilliantly or fails spectacularly. Not for conservative portfolios.
+### 💎 Tier 1 — Gem Quality (Score 55+/70)
+
+**BMRI — Bank Mandiri** *(58/70)*
+- ROE 22%+ sustained 3 years; ROI TTM 22.23% — Indonesia's premier quality bank
+- Q1 2026: profit +16.6% (IDR 15.4T); NIM 4.7%; loan growth 16.2%; Livin' fees +19.8%
+- P/E 7.1x vs 5-yr mean 12.5x; analyst consensus IDR 7,660 (+70% upside)
+- Graham Number 10.4 (deeply undervalued vs 22.5 benchmark)
+- DCF: IDR 3,800 bear / IDR 5,900 base / IDR 8,300 bull
+
+**TOTL — Total Bangun Persada** *(58/70)*
+- ROIC 24%; debt-free; IDR 1.3T cash = 35% of market cap; FCF yield ~20%
+- Q1 2026: profit +37.4% on -1.2% revenue → pure margin expansion from data center mix
+- EV/EBITDA 3.9x (after cash); DCF base IDR 1,450 vs price IDR 1,075 = 35% discount
+- Most resilient to BI rate hike (zero debt) and foreign outflows (low foreign ownership)
+
+### ✅ Tier 2 — High-Conviction Turnarounds (Score 45–54/70)
+
+**GOTO — GoTo Gojek Tokopedia** *(50/70)*
+- First-ever quarterly profit Q1 2026 (IDR 171B) — binary inflection point crossed
+- GTV +63% YoY; EBITDA +131%; IDR 23T cash (42% of market cap)
+- EV/EBITDA 9.4x on guided IDR 3.2–3.4T EBITDA — reasonable for confirmed-profit growth
+- Risk: 1.083T shares dilution; P/E 79x trailing
+
+**BBRI — Bank Rakyat Indonesia** *(48/70)*
+- NPL cycle turned: micro-NPL peaked at 3.86%, Q1 2026 stabilising
+- NIM 7.9% (beat guidance); profit +13.8% YoY; loan growth 13.7%
+- P/E 9.8x vs 5-yr mean 14.5x; dividend yield 10.95% = 620bps over BI rate
+- MSCI June 19 = binary entry opportunity (if downgraded, buy at IDR 2,700–2,900)
+
+### ⚡ Tier 3 — Speculative / Asset Plays (Score 30–44/70)
+
+**BMTR — Global Mediacom** *(35/70)*
+- Asset play: P/B 0.09x; EV/EBITDA 2.0x; book equity IDR 33.7T vs market cap IDR 3T
+- EBITDA margin 29.54% stable; low D/E 21.6%; owns RCTI/MNCTV/GTV/iNews via MNCN
+- Risk: structural FTA TV decline; Hary Tanoe governance; catalyst required for re-rating
+
+**TBLA — Tunas Baru Lampung** *(35/70)*
+- Upgraded from Avoid: B50 mandate (July 2026) = regulatory volume catalyst
+- Q1 2026 revenue +8.7% (IDR 6.1T); net income IDR 275B; 722K kl contracts secured
+- Analyst target IDR 960 (Ciptadana, Buy); risk: D/E 193%, interest coverage 1.9x
+
+**ADRO — Alamtri Resources** *(35/70)*
+- Income play: 11.86% dividend yield (710bps over BI rate); natural IDR hedge
+- ROIC 8.36% barely above WACC 8.26% — near-zero economic value creation
+- Not a compounder; hold for income; Adaro Green is unvalued optionality
+
+### ⚠️ Tier 4 — Hold/Avoid
+
+**GPRA — Perdana Gapura Prima** *(25/70)*
+- Q1 2026 profit -82.8% YoY (IDR 6.4B) — invalidates "Deep Value" thesis
+- Forward P/E ~17.7x (annualised Q1) — not cheap on current run-rate
+- Wait for Q2 2026 results (August 2026). Hard stop IDR 84.
 
 ---
 
-### 🚫 Tier 4 — Avoid (Quality Compounder Criteria Failed)
+## Portfolio Construction Guidance — Bear Market Edition
 
-**TBLA (Tunas Baru Lampung)** — *Value trap with a policy catalyst*
-- D/E 193.2%, interest coverage 1.9x, NEGATIVE operating cash flow, governance 8/54 = 4 critical red flags simultaneously
-- Biodiesel B40→B50 mandate is genuinely bullish (H1 2025 biodiesel revenue +173%)
-- BUT: the leverage makes the bear case devastating (-43% to -70% downside in stress scenario)
-- Expected return barely positive (+4.7%) with extremely high variance
-- **The biodiesel story does NOT compensate for leverage + governance risk**
-
----
-
-## Portfolio Construction Guidance
-
-| Investor Type | Recommended Allocation |
-|--------------|----------------------|
-| Quality Compounder | 40% BMRI + 30% TOTL + 15% BBRI + 15% GPRA |
-| Balanced | 30% BMRI + 20% TOTL + 20% BBRI + 10% ADRO + 10% GPRA + 10% GOTO |
-| Income | 35% BMRI + 25% BBRI + 25% ADRO + 15% GPRA |
-| Speculative | 20% GOTO + 15% GPRA + 15% TBLA (max) + 50% higher-quality |
+| Investor Type | Allocation |
+|--------------|------------|
+| **High-Conviction GARP** | 50% BMRI + 30% TOTL + 20% GOTO |
+| **Balanced Bear Market** | 35% BMRI + 25% TOTL + 15% BBRI + 15% GOTO + 10% TBLA |
+| **Income Focused** | 35% BBRI + 30% BMRI + 20% ADRO + 15% TOTL |
+| **Speculative** | 25% BMRI + 25% TOTL + 20% GOTO + 15% BMTR + 15% TBLA |
 
 ---
 
-## Risk Monitor Dashboard
+## Stress Test Summary
 
-| Signal | Watch For | Action |
-|--------|-----------|--------|
-| BBRI Recovery | Micro NPL < 3.5%; Q-o-Q net profit growth | Increase position to Tier 1 |
-| TOTL Cycle | Monthly data center order book announcements | If orders slow 2 consecutive quarters, trim |
-| BMRI NIM | BI rate cut announcement | Catalyst: NIM expands, re-rate toward IDR 6,000+ |
-| GOTO Profitability | 3 consecutive profitable quarters | Upgrades from Tier 3 to Tier 2 |
-| TBLA Leverage | D/E crosses 220% or interest coverage drops to 1.5x | Exit immediately |
-| ADRO Transformation | Metcoal/alumina revenue > 40% of total | Potential ROIC improvement; upgrade |
+### IDR to 19,500 (+9.5% depreciation)
+✅ Beneficial: ADRO (USD revenues) | ⚠️ Manageable: BMRI, BBRI, TOTL, GOTO | ❌ Risk: GPRA, TBLA (if USD debt)
+
+### BI Rate +50bps to 5.25%
+✅ Immune: TOTL (debt-free) | ⚠️ Small impact: BMRI, BBRI, ADRO, BMTR, GOTO | ❌ High risk: TBLA (D/E 193%)
 
 ---
 
-*All analysis represents the author's independent research and does not constitute investment advice. Indonesian stock market involves significant risks including currency, political, and liquidity risk. All figures in IDR unless stated. Data sourced from public filings, Stockbit, IDNFinancials, and research reports.*
+## Report Index
+
+### June 7, 2026 Reports (Latest)
+| Report | Stock | Verdict |
+|--------|-------|---------|
+| [analysis_GPRA_2026-06-07.md](reports/analysis_GPRA_2026-06-07.md) | GPRA — Perdana Gapura Prima | ⚠️ Hold |
+| [analysis_BBRI_2026-06-07.md](reports/analysis_BBRI_2026-06-07.md) | BBRI — Bank Rakyat Indonesia | ✅ Speculative Buy |
+| [analysis_BMRI_2026-06-07.md](reports/analysis_BMRI_2026-06-07.md) | BMRI — Bank Mandiri | 💎 Strong Buy (Gem) |
+| [analysis_ADRO_2026-06-07.md](reports/analysis_ADRO_2026-06-07.md) | ADRO — Alamtri Resources | 💰 Hold (Income) |
+| [analysis_TBLA_2026-06-07.md](reports/analysis_TBLA_2026-06-07.md) | TBLA — Tunas Baru Lampung | ⚡ Speculative Buy |
+| [analysis_GOTO_2026-06-07.md](reports/analysis_GOTO_2026-06-07.md) | GOTO — GoTo Gojek Tokopedia | ⚡ Speculative Buy |
+| [analysis_BMTR_2026-06-07.md](reports/analysis_BMTR_2026-06-07.md) | BMTR — Global Mediacom | ⚡ Speculative Buy |
+| [analysis_TOTL_2026-06-07.md](reports/analysis_TOTL_2026-06-07.md) | TOTL — Total Bangun Persada | 💎 Strong Buy (Gem) |
+
+### Archived Reports (May 2026)
+| Report | Stock |
+|--------|-------|
+| [ADRO-analysis.md](reports/ADRO-analysis.md) | ADRO |
+| [BBRI-analysis.md](reports/BBRI-analysis.md) | BBRI |
+| [BMRI-analysis.md](reports/BMRI-analysis.md) | BMRI |
+| [GOTO-analysis.md](reports/GOTO-analysis.md) | GOTO |
+| [GPRA-analysis.md](reports/GPRA-analysis.md) | GPRA |
+| [TBLA-analysis.md](reports/TBLA-analysis.md) | TBLA |
+| [TOTL-analysis.md](reports/TOTL-analysis.md) | TOTL |
+
+---
+
+## Scoring Rubric (Max 70 Points)
+
+| Criterion | Max | Description |
+|-----------|-----|-------------|
+| Quality (ROE/ROIC) | 10 | 3-year trend; inflection analysis |
+| Growth Catalyst | 10 | Specific Q2–Q3 2026 revenue drivers |
+| Cash Strength | 10 | FCF yield; dividend; dilution risk |
+| Value | 10 | P/E, P/B, EV/EBITDA vs bands; DCF |
+| Momentum | 10 | Accumulation/distribution; volume |
+| Macro Fit | 10 | IDR, BI rate, foreign flow sensitivity |
+| R/R Ratio | 10 | (Target – Price) / (Price – Stop); 3:1 min |
+| **Threshold** | | **Gem: >55 | Spec Buy: 40–54 | Hold: 30–39 | Avoid: <30** |
+
+---
+
+*All analysis is for informational purposes only and does not constitute investment advice. Indonesian equities carry significant currency, political, and liquidity risks. All prices in IDR unless stated. Analysis date: June 7, 2026.*
