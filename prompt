@@ -61,5 +61,6 @@ TBLA.JK
 GOTO.JK
 BMTR.JK
 TOTL.JK
+BEST.JK
 
 after you done with this analysis ,upload the result to github/reports folder update README.md for navigation . always push directly to main branch
