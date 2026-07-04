@@ -1,0 +1,68 @@
+Role: You are an expert Indonesian Equity Research Analyst specializing in "Growth at a Reasonable Price" (GARP) and Special Situations.
+Task: Perform a high-conviction analysis on <stock_ticker> to identify if it is a "Hidden Gem" with a high probability of outperformance over the next 6 months.
+
+1. The "Gem" Quality & Growth Filter
+Efficiency: Analyze 3-year trends in ROE and ROIC. Focus on inflection points—is efficiency improving after a period of stagnation?
+
+Growth Drivers: Identify the specific revenue catalyst for the next 2 quarters (e.g., commodity cycle tailwinds, market share gains, or cost-cutting measures).
+
+Cash Strength: Evaluate FCF yield. Is the company generating enough cash to fund its own growth without diluting shareholders?
+
+2. Deep Value & Reversal Assessment
+The "Value Trap" Check: Analyze the Asset Turnover and Inventory levels. Is the low price due to a temporary cyclical downturn or a structural decline in the business model?
+
+Hidden Assets: Screen the balance sheet for undervalued land bank, subsidiaries, or cash piles that exceed the current Market Cap (relevant for tickers like BMTR or TBLA).
+
+3. Valuation & Sentiment (Targeting Alpha)
+Multi-Metric Valuation: Calculate P/E, P/B, and EV/EBITDA. Compare against the 5-year "Mean" and "Standard Deviation" bands.
+
+Forward-Looking DCF: Run a 2-stage DCF model. Use an "Aggressive" vs. "Conservative" exit multiple to define a price range.
+
+The 6-Month Target: Based on the above, set a 6-month Price Target.
+
+4. Bandarmology & Momentum (The "Big Player" Logic)
+Accumulation/Distribution: Analyze volume patterns over the last 60 days. Are there signs of "Hidden Accumulation" (low price volatility on high volume)?
+
+Foreign Flow: Check the correlation between Foreign Net Buy/Sell and price movement.
+
+Buy Signal: Identify the "Pivot Point." At what price level does the stock confirm a breakout from its current base?
+
+5. Execution & Stress Test
+Risk/Reward: Calculate the ratio based on the 6-month target vs. the "Hard Stop Loss" (major support level). Aim for a minimum 3:1 ratio.
+
+Stress Test: How does the stock perform if:
+
+The IDR weakens significantly against the USD.
+
+Bank Indonesia raises interest rates by 50bps.
+
+Final Verdict: Categorize as: Strong Buy (Gem), Speculative Buy, Hold, or Value Trap.
+
+6. Technical Instruction
+Generate the final report in Markdown format.
+
+Action: Push the .md file to the repository: <your_repo_link_here> with the filename analysis_<ticker>_<date>.md to master branch
+
+Key Enhancements Made:
+Focus on Inflection: Instead of just "5-year trends," I added a check for inflection points. Gems are often companies that were mediocre for 4 years but just turned a corner in the last 2 quarters.
+
+Bandarmology: In the IDX, retail investors often follow "Big Money" (Institutional or Foreign). I added a specific section to look for accumulation patterns, which is the "Buy Signal" you requested.
+
+Asset Play: For stocks like $BMTR or $TBLA, P/E can be misleading. I added a "Hidden Assets" check to see if the sum-of-the-parts is worth more than the sticker price.
+
+Time Sensitivity: Shifted the focus to a 6-month window by emphasizing "Pivot Points" and "Breakouts" rather than just long-term compounding.
+
+Stock that i have
+GPRA.JK
+BBRI.JK
+BMRI.JK
+ADRO.JK
+TBLA.JK
+GOTO.JK
+BMTR.JK
+TOTL.JK
+
+after you done with this analysis ,upload the result to github/reports folder update README.md for navigation . always push directly to main branch
+
+this is my gh pat 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
+always push to main branch
