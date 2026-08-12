@@ -1,172 +1,171 @@
 # Indonesia Stock Hidden Gem Analysis
 ## GARP + Special Situations Framework — IDX Equity Research
 
-**Latest Analysis Date:** July 4, 2026
+**Latest Analysis Date:** August 12, 2026
 **Universe:** 8 IDX-listed Indonesian equities
 **Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
-**Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC, Samuel Sekuritas, UOB Kay Hian
+**Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC, Samuel Sekuritas, UOB Kay Hian, StockWatch, PintarSaham
 
 ---
 
-## ⚠️ Critical Macro Context — July 4, 2026
+## ⚠️ Critical Macro Context — August 12, 2026
 
-| Indicator | Level | Change vs June 21 | Implication |
+| Indicator | Level | Change vs July 4 | Implication |
 |-----------|-------|------------------|-------------|
-| MSCI Verdict (June 23) | **EM RETAINED — monitoring extended to Nov 2026** | "Yellow light" | No Frontier flush; no relief rally either — overhang persists |
-| IHSG Level | **~5,876** | ▼ -4.8% | Post-MSCI fade; July 4 rebound +2.28% |
-| IDR/USD | **~17,963** | Slightly weaker | Near 18,000; BI defending |
-| BI Rate | **5.75%** | Unchanged since June 18 | July RDG mid-month = next rate risk |
-| B50 Biodiesel | **LIVE July 1** | 🚀 Launched on schedule | 3-month transition to Oct 1; TBLA catalyst active |
-| BMTR Bond Maturity | **July 6 — IDR 672.6B** | New binary event | BMTR crashed -38% into it |
+| IHSG Level | **~6,374** | ▲ +8.5% | Strong risk-on rally; best-performing Asian market in the window |
+| MSCI Review | **Aug 12 checkpoint: no new inclusions/FIF upgrades** | Freeze extended | Next binding decision **November 2026** — dominant tail risk unchanged |
+| IDR/USD | **~17,820–17,890** | Slightly stronger | BI's H1 hiking cycle (100bps YTD) defending the rupiah |
+| BI Rate | **5.75%** | Unchanged (held July 21–22) | Sell-side (Danamon) flags 6.25% by year-end as the hawkish tail risk |
+| BMTR Bond Maturity | **July 6 event has passed** | ~85% confidence paid on schedule (pre-funded via CGIF-guaranteed refinancing) | No default/suspension/downgrade found; upgraded to Buy |
+| GOTO | **Pinned at IDR 50 floor, 14th straight week** | Fundamentals improving, technicals frozen | Second consecutive profitable quarter; same-day MSCI decision pending tonight |
 
-> **Key July 4 Developments vs June 21:**
-> 1. **MSCI June 23: EM retained** — but monitoring extended to November 2026; "information flow" assessment downgraded to negative. The 15% Frontier tail is deferred, not dead.
-> 2. **Banks sold off anyway** — BBRI -7.5% to 2,710, BMRI -5.6% to 4,230: both landed in the dip-buy zones the June 21 reports specified for the Watch/Freeze scenario. R/R restored on both.
-> 3. **B50 launched July 1 on schedule** — TBLA thesis catalyst is now live, plus IDR 60/share dividend (payment July 22). Target raised to 1,000.
-> 4. **BMTR crashed -38% to ~115** — IDR 672.6B bond/sukuk principal matures July 6; company states funds allocated. Binary event in 2 trading days.
-> 5. **TOTL flat, ADRO +4.5% against a -4.8% tape** — both defensive theses (zero debt / USD revenue) performing as designed.
+> **Key August 12 Developments vs July 4:**
+> 1. **IHSG rallied +8.5%** to ~6,374 as broad risk-on returned, lifting most of the universe with it — TOTL, BBRI, BMRI, TBLA and ADRO all posted gains.
+> 2. **TOTL delivered a second consecutive earnings beat** — H1 2026 revenue +22.75% YoY, net profit +54.6% YoY. Stock +8.9% to 1,340; stop trailed up to 1,070.
+> 3. **BBRI's NPL inflection was confirmed by a real quarterly print** (NPL 3.0%→improving, NIM 7.9% beating guidance) and foreign investors returned as net buyers; stock +15.5% to 3,130, stop raised to 2,750, R/R compressed to 1.9:1.
+> 4. **BMRI's fundamentals outran its price** — H1 net profit +24.4% YoY while the stock was flat (-0.2%); P/E fell to 5.9x (below -2SD), R/R improved to 4.3:1, conviction raised.
+> 5. **BMTR's binary bond event appears resolved favorably** — no default signal 37 days past the July 6 maturity; upgraded from Speculative Buy to outright Buy (still capped sizing pending explicit confirmation).
+> 6. **GOTO's fundamentals decoupled further from its price** — first-ever >IDR 1T EBITDA quarter, but the stock remains welded to the IDR 50 floor with a same-day MSCI decision pending as this report was written.
+> 7. **TBLA's B50 catalyst de-risked** via a June 26 ministerial allocation decree, but leverage (D/E 193%) remains the dominant risk into a hawkish BI rate path.
+> 8. **ADRO and GPRA both ran ahead of their fundamentals** — R/R compressed on both (ADRO 1.56→1.43; GPRA remains an Avoid despite a Q2 QoQ earnings bounce).
 
 ---
 
-## July 4, 2026 — Master Scorecard
+## August 12, 2026 — Master Scorecard
 
-| Stock | Company | Price (IDR) | Verdict | 6M Target | Stop Loss | R/R | vs June 21 |
+| Stock | Company | Price (IDR) | Verdict | 6M Target | Stop Loss | R/R | vs July 4 |
 |-------|---------|-------------|---------|-----------|-----------|-----|-----------|
-| [TOTL](reports/analysis_TOTL_2026-07-04.md) | Total Bangun Persada | 1,230 | 💎 **Strong Buy (Gem)** | 1,800 | 980 | **2.28:1** ✅ | → Anchor; flat vs -4.8% IHSG |
-| [GOTO](reports/analysis_GOTO_2026-07-04.md) | GoTo Gojek Tokopedia | 50 | 💎 **Strong Buy (Gem)** | 75 | 45 | **5.0:1** ✅ | → 3 weeks of seller exhaustion at the low |
-| [BBRI](reports/analysis_BBRI_2026-07-04.md) | Bank Rakyat Indonesia | 2,710 | ⚡ Speculative Buy | 3,600 | 2,400 | **2.87:1** ✅ | ↑ Add zone ACTIVE; yield 12.8% |
-| [BMRI](reports/analysis_BMRI_2026-07-04.md) | Bank Mandiri | 4,230 | ⚡ Speculative Buy | 5,500 | 3,800 | **2.95:1** ✅ | ↑ R/R restored from 1.73:1; add constraint lifted |
-| [TBLA](reports/analysis_TBLA_2026-07-04.md) | Tunas Baru Lampung | 670 | ⚡ Speculative Buy | 1,000 | 520 | **2.20:1** ✅ | ↑ B50 LIVE; target raised; div July 22 |
-| [BMTR](reports/analysis_BMTR_2026-07-04.md) | Global Mediacom | ~115 | ⚡ Spec Buy (event-driven) | 250 | 90 | **5.40:1** ⚠️ | ▼ Crashed -38%; July 6 bond = binary; max 2–3% |
-| [ADRO](reports/analysis_ADRO_2026-07-04.md) | Alamtri Resources | 2,300 | 💰 Hold (Income) | 3,000 | 1,850 | **1.56:1** ⚠️ | → +4.5% vs tape; hold, add only 2,000–2,150 |
-| [GPRA](reports/analysis_GPRA_2026-07-04.md) | Perdana Gapura Prima | ~106 | 🚫 **Avoid** | — | 85 | — | → Bounce is noise; Q1 -82.8% unchanged |
+| [TOTL](reports/analysis_TOTL_2026-08-12.md) | Total Bangun Persada | 1,340 | 💎 **Strong Buy (Gem)** | 1,950 | 1,070 | **2.26:1** ✅ | ↑ +8.9%; 2nd straight earnings beat |
+| [GOTO](reports/analysis_GOTO_2026-08-12.md) | GoTo Gojek Tokopedia | 50 | 💎 **Strong Buy (Gem)** | 78 | 45 | **5.6:1** ✅ | → Pinned at floor 14 weeks; 2nd profitable quarter |
+| [BMRI](reports/analysis_BMRI_2026-08-12.md) | Bank Mandiri | 4,220 | ⚡ Speculative Buy | 5,600 | 3,900 | **4.3:1** ✅ | ↑ Flat price, +24.4% profit — gap widened |
+| [BMTR](reports/analysis_BMTR_2026-08-12.md) | Global Mediacom | 112 | 🟢 **Buy (upgraded)** | 220 | 95 | **6.35:1** ✅ | ↑ Bond event resolved (~85% confidence) |
+| [TBLA](reports/analysis_TBLA_2026-08-12.md) | Tunas Baru Lampung | 715 | ⚡ Speculative Buy | 1,050 | 580 | **2.48:1** ✅ | ↑ +6.7%; B50 allocation decree de-risked |
+| [BBRI](reports/analysis_BBRI_2026-08-12.md) | Bank Rakyat Indonesia | 3,130 | ⚡ Speculative Buy | 3,850 | 2,750 | **1.9:1** ⚠️ | ↑ +15.5%; NPL inflection confirmed; R/R compressed |
+| [ADRO](reports/analysis_ADRO_2026-08-12.md) | Alamtri Resources | 2,520 | 💰 Hold (Income) | 3,050 | 2,150 | **1.43:1** ⚠️ | ↑ +9.6%; guidance trimmed to +35% from +60% |
+| [GPRA](reports/analysis_GPRA_2026-08-12.md) | Perdana Gapura Prima | 112 | 🚫 **Avoid** | — | 90 | — | ↑ +5.7%; Q2 QoQ bounce, still a value trap |
 
 ---
 
-## Key Changes vs June 21, 2026
+## Key Changes vs July 4, 2026
 
-| Stock | June 21 Verdict | July 4 Verdict | Key Driver |
+| Stock | July 4 Verdict | August 12 Verdict | Key Driver |
 |-------|----------------|----------------|------------|
-| BBRI | ⚡ Spec Buy (pre-MSCI caution) | ⚡ Spec Buy — **ADD ZONE ACTIVE** | MSCI tail deferred; -7.5% landed in planned 2,700–2,800 dip zone; R/R 2.02 → 2.87 |
-| BMRI | ⚡ Spec Buy (R/R 1.73, don't add) | ⚡ Spec Buy — **constraint lifted** | Post-MSCI flush to 3,940 & recovery; R/R 1.73 → 2.95 |
-| TBLA | ⚡ Spec Buy (B50 pending) | ⚡ Spec Buy — **target raised 950 → 1,000** | B50 launched July 1 on schedule; IDR 60 dividend pays July 22 |
-| BMTR | ⚡ Spec Buy (3.67:1) | ⚡ Spec Buy — **EVENT-DRIVEN, minimal size** | -38% crash into July 6 IDR 672.6B bond maturity; binary |
-| TOTL | 💎 Strong Buy | 💎 Strong Buy | Flat vs -4.8% IHSG = relative strength proof; Q2 earnings ~4 wks |
-| GOTO | 💎 Strong Buy | 💎 Strong Buy | Held IDR 50 floor through post-MSCI flush; consensus 17 Buy / 0 Sell |
-| ADRO | 💰 Hold (Income) | 💰 Hold (Income) | +4.5%; IDR hedge working; R/R now <2 — don't chase |
-| GPRA | 🚫 Avoid | 🚫 Avoid | +11.6% thin-volume bounce; fundamentals unchanged |
+| TOTL | 💎 Strong Buy | 💎 Strong Buy — **2nd earnings beat** | H1 revenue +22.75%, profit +54.6% YoY; stop trailed to 1,070 |
+| GOTO | 💎 Strong Buy | 💎 Strong Buy — **fundamentals/technicals diverging further** | 2nd profitable quarter, EBITDA >IDR 1T first time; still pinned at floor |
+| BMRI | ⚡ Spec Buy (2.95:1) | ⚡ Spec Buy — **conviction raised, R/R 4.3:1** | H1 profit +24.4% YoY while price flat; P/E fell to 5.9x |
+| BMTR | ⚡ Spec Buy (event-driven) | 🟢 **UPGRADED to Buy** | July 6 bond maturity resolved (no default signal after 37 days) |
+| TBLA | ⚡ Spec Buy (2.20:1) | ⚡ Spec Buy — **target raised, catalyst de-risked** | June 26 decree locks in 722,000 KL 2026 B50 allocation |
+| BBRI | ⚡ Spec Buy (2.87:1) | ⚡ Spec Buy — **R/R compressed to 1.9:1** | +15.5% run; NPL inflection confirmed but Q2 print still pending (~Sept 1) |
+| ADRO | 💰 Hold (1.56:1) | 💰 Hold — **R/R compressed to 1.43:1** | +9.6% run; FY26E guidance trimmed to +35% from +60% |
+| GPRA | 🚫 Avoid | 🚫 Avoid — **unchanged** | Q2 QoQ bounce doesn't offset YoY decline and rights-issue dilution risk |
 
 ---
 
-## Quality Tier Rankings — July 4, 2026
+## Quality Tier Rankings — August 12, 2026
 
 ### 💎 Tier 1 — Gem Quality (Score 55+/70)
 
-**TOTL — Total Bangun Persada** *(61/70)* — **HIGHEST CONVICTION ANCHOR**
-- Passed its first live stress test: flat while IHSG fell -4.8% post-MSCI
-- Zero debt (immune to BI 5.75% and any July hike); IDR 1.3T cash = 35% of market cap
-- IDR 2.6T new contracts by May = 78% of FY2025 revenue; Q1 profit +37.4% on flat revenue
-- P/E 11.1x (fwd ~8.3x); ex-cash EV/EBITDA 3.5x; FCF yield ~24.5%; <5% foreign = MSCI-immune
-- Q2 earnings (late July) is the next re-rating catalyst
-- DCF: IDR 1,100 bear / IDR 1,750 base / IDR 2,200 bull
+**TOTL — Total Bangun Persada** *(60/70)* — **HIGHEST CONVICTION ANCHOR**
+- Second consecutive earnings beat: H1 2026 revenue +22.75% YoY, net profit +54.6% YoY — margin AND volume now compounding together
+- Zero debt (immune to BI 5.75%); ~IDR 1.3T cash; IDR 2.78T new contracts through H1 = 69.5% of FY2026 target; IDR 17.7T tender pipeline
+- Fwd P/E ~8.6x; ex-cash EV/EBITDA 3.8x; FCF yield ~20.8%; <5% foreign = MSCI-immune
+- Q3 earnings (late Oct/Nov) and the Aug 19–20 BI rate decision are the next catalysts
+- DCF: IDR 1,150 bear / IDR 1,950 base / IDR 2,450 bull
 
-**GOTO — GoTo Gojek Tokopedia** *(57/70)* — **STRONGEST ASYMMETRY**
-- Three weeks pinned at IDR 50 (52-wk low) with no breakdown despite the post-MSCI flush = seller exhaustion
-- First-ever net profit Q1 2026 (IDR 258B); EBITDA IDR 907B (+131% YoY); FY2026E guidance IDR 3.2–3.4T
-- Cash IDR 25.4T = 37% of market cap; consensus 17 Buy / 0 Sell, avg target ~79
-- Q2 print (~August): second consecutive profitable quarter would force capitulation of doubters
-- **R/R at IDR 50: 5.0:1** — best risk-adjusted entry in the universe
+**GOTO — GoTo Gojek Tokopedia** *(54/70)* — **STRONGEST ASYMMETRY, HIGHEST NEAR-TERM VOLATILITY**
+- 14th straight week pinned at the IDR 50 floor; demoted to Development Board, dropped from FTSE Russell — but a same-day binary MSCI decision was pending as this report was finalized
+- Second consecutive profitable quarter (H1 net profit IDR 607.5B); adjusted EBITDA crossed IDR 1T for the first time (+137% YoY); fintech EBITDA now exceeds on-demand
+- Cash IDR 23.7T = ~35% of market cap; IDR 3.5T active buyback program; reverse split under CEO consideration to escape the floor
+- **R/R at IDR 50: 5.6:1** — best risk-adjusted entry in the universe, but sizing should respect near-term event volatility
 
 ### ⚡ Tier 2 — Speculative Buy (Score 35–54/70)
 
-**BMRI — Bank Mandiri** *(49/70)* — **R/R RESTORED**
-- P/E ~6.0x and P/B ~1.05x, both below -2 SD, for a 17.7% ROE franchise; dividend ~9.4%
-- June 29 flush to 3,940 held and recovered = spring pattern; add zone 3,950–4,250
-- R/R 2.95:1; November MSCI review is the calendar risk — size accordingly
+**BMRI — Bank Mandiri** *(52/70)* — **VALUE GAP WIDENING**
+- H1 2026 consolidated net profit +24.4% YoY on loan growth of 19.9% (vs 12.7% industry) — while the stock was flat since July 4
+- P/E 5.9x and P/B 1.03x, both below -2SD; trailing dividend yield 11.3%
+- June 29 flush to 3,940 has now held twice as support; R/R improved to 4.3:1; November MSCI review remains the dominant calendar risk
 
-**BBRI — Bank Rakyat Indonesia** *(48/70)* — **ADD ZONE ACTIVE**
-- P/E 7.0x AT -2 SD; P/B 1.20x AT -2 SD; dividend yield 12.8% — record highs/lows simultaneously
-- NPL inflection intact (7.9% → 4.8% and falling); CASA record 70.6%; Q2 earnings early August
-- The June 21 playbook said buy the Watch/Freeze dip at 2,700–2,800 — it arrived; R/R 2.87:1
+**BBRI — Bank Rakyat Indonesia** *(47/70)* — **THESIS CONFIRMED, RALLY AHEAD OF THE PRINT**
+- NPL improved sequentially for a second straight quarter (3.1%→3.0%); NIM 7.9% beat guidance; foreign investors returned as net buyers in early August
+- Stock +15.5% since July 4 to 3,130 — nearly half the planned 6-month move already captured; stop raised to 2,750, R/R compressed to 1.9:1
+- Confirming catalyst (H1/Q2 earnings) pushed to ~September 1; November MSCI review is the key tail risk
 
-**TBLA — Tunas Baru Lampung** *(40/70)* — **CATALYST LIVE**
-- B50 mandate in force since July 1 (transition to Oct 1); +29% palm oil demand vs B40
-- P/E ~5.2x (fwd ~3.5x); P/B 0.21x; IDR 60/share dividend pays July 22 (8.95% at cum)
-- Risk unchanged: D/E 193% at BI 5.75% — stop IDR 520 absolute; max 5% weight
+**TBLA — Tunas Baru Lampung** *(44/70)* — **CATALYST DE-RISKING**
+- June 26 ministerial decree locked in TBLA's 722,000 KL 2026 B50 allocation, removing policy uncertainty ahead of the Oct 1 full-compliance deadline
+- CPO prices at a 4-month high; P/E ~5.55x, P/B 0.22x; stop trailed to 580
+- Risk unchanged: D/E 193%, interest coverage ~1.9x — a hawkish BI path (6.25% year-end call) is the single largest threat to the thesis
 
-**BMTR — Global Mediacom** *(35/70)* — **EVENT-DRIVEN SPECIAL SITUATION**
-- Crashed 185 → ~115 into the July 6 IDR 672.6B bond/sukuk maturity; company states funds allocated
-- Market cap IDR 1.93T = 13–16% of SOTP (IDR 12–15T); P/B ~0.11x all-time low
-- Binary: paid → target 250; delayed → uninvestable. New money waits for post-payment confirmation >135. Max 2–3%
+**BMTR — Global Mediacom** *(44/70)* — **UPGRADED — BINARY EVENT RESOLVED**
+- July 6 IDR 672.6B bond/sukuk maturity appears paid on schedule (pre-funded via a CGIF/ADB-guaranteed refinancing closed a month early); no default, suspension, or downgrade found 37 days later (~85% confidence, not explicitly confirmed)
+- Market cap ~IDR 2.87T vs. estimated SOTP ~IDR 13.9T = ~79% conglomerate discount; P/B 0.12x, still an all-time low
+- R/R 6.35:1 — among the most asymmetric setups in the universe; keep sizing moderate (2–4%) pending explicit confirmation via Q2/Q3 filings
 
 ### 💰 Tier 3 — Income/Cycle Hold
 
-**ADRO — Alamtri Resources** *(38/70)*
-- +4.5% vs IHSG -4.8% — the USD-revenue hedge is doing its job with IDR near 18,000
-- FY2026E profit +60% to $719M; dividend band 11–19%; fwd P/E ~4.5x
-- R/R 1.56:1 after the run — hold, harvest yield, add only at 2,000–2,150
+**ADRO — Alamtri Resources** *(40/70)*
+- 1Q26 net income +67.1% YoY; metcoal volumes tracking +11.5% guidance; KAI aluminum smelter on track for full production by end-FY26
+- FY2026E profit guidance trimmed to +35.2% (from +60%) on a partial, not full, ASP recovery
+- +9.6% since July 4 to within 7% of the 52-week high; R/R compressed to 1.43:1 — hold, harvest the ~10.9% yield, add only at 2,300–2,400
 
 ### 🚫 Tier 4 — Avoid
 
-**GPRA — Perdana Gapuraprima** *(20/70)*
-- +11.6% bounce on thin volume changes nothing: Q1 -82.8%, fwd P/E 18–21x, inventory rising
-- Mortgage rates 12%+ freeze the buyer pool until a 2027 easing cycle
-- Legacy holders: use strength above 100 to exit; re-evaluate at Q2 earnings (August)
+**GPRA — Perdana Gapuraprima** *(23/70)*
+- Q2 2026 net profit rebounded sharply QoQ off a depressed base, but H1 2026 remains down materially YoY; national home sales -25.7% YoY
+- A pending dilutive rights issue (~Rp300bn) to fund undisclosed M&A adds a new risk on top of unchanged mortgage-rate headwinds
+- Legacy holders: manage risk into strength (stop reference 90); re-evaluate at Q3 earnings and once rights-issue terms are disclosed
 
 ---
 
-## 🗓️ Event Calendar — July–November 2026
+## 🗓️ Event Calendar — August–November 2026
 
 | Date | Event | Exposure |
 |------|-------|----------|
-| **July 6** | BMTR bond/sukuk maturity (IDR 672.6B) | BMTR — binary |
-| Mid-July | BI Rate decision (RDG) | TBLA/GPRA hurt by hike; TOTL immune |
-| **July 22** | TBLA dividend payment (IDR 60/share) | TBLA cash return |
-| Late July | TOTL, BMRI Q2 earnings | Re-rating catalysts |
-| Early August | BBRI Q2 earnings; GOTO Q2 (~Aug) | Recovery proof points |
-| Oct 1 | B50 full nationwide compliance deadline | TBLA volume inflection |
-| **November** | MSCI monitoring review | BBRI/BMRI forced-selling tail if reforms stall |
+| **Aug 12 (tonight, NY time)** | MSCI Indonesia index decision (GOTO exclusion review) | GOTO — binary near-term |
+| ~Aug 19–20 | BI Rate decision (RDG) | TOTL immune/positive; TBLA/GPRA high sensitivity |
+| Late Aug–Oct 1 | B50 progress toward full nationwide compliance | TBLA volume inflection |
+| Late Oct/Nov | TOTL, BMRI, BBRI, GOTO Q3 earnings | Re-rating catalysts |
+| ~Sept 1 | BBRI H1/Q2 2026 earnings (delayed from early-Aug expectation) | Confirming catalyst for the NPL inflection thesis |
+| Q4 2026 | GPRA rights-issue terms disclosure; Q3 earnings | Re-evaluation trigger |
+| **November** | MSCI monitoring review (Indonesia EM status) | BBRI/BMRI forced-selling tail if reforms stall |
 
 ---
 
-## Portfolio Construction — July 4, 2026
+## Portfolio Construction — August 12, 2026
 
 | Investor Type | Allocation |
 |--------------|------------|
-| **High-Conviction GARP** | 45% TOTL + 25% GOTO + 20% BMRI + 10% ADRO |
-| **Balanced Bear Market** | 30% TOTL + 20% BBRI + 15% GOTO + 15% ADRO + 10% TBLA + 5% BMRI + 5% cash |
-| **Income Focused** | 35% BBRI + 25% ADRO + 25% TOTL + 15% BMRI |
-| **Contrarian/Speculative** | 30% GOTO + 20% TOTL + 20% TBLA + 15% BBRI + 10% ADRO + 5% BMTR* |
-
-*BMTR only post-July 6 confirmation above IDR 135.
+| **High-Conviction GARP** | 40% TOTL + 20% GOTO + 20% BMRI + 10% ADRO + 10% BMTR |
+| **Balanced Bear/Rally Market** | 25% TOTL + 20% BBRI + 15% GOTO + 15% BMRI + 10% ADRO + 10% TBLA + 5% BMTR |
+| **Income Focused** | 30% BBRI + 25% ADRO + 25% TOTL + 20% BMRI |
+| **Contrarian/Speculative** | 25% GOTO + 20% BMTR + 20% TOTL + 15% TBLA + 15% BBRI + 5% ADRO |
 
 ---
 
-## Stress Test Summary — July 4, 2026
+## Stress Test Summary — August 12, 2026
 
 ### IDR Weakens to 19,500
 | Stock | Impact |
 |-------|--------|
 | ADRO | ✅ Strongly Positive — USD revenues (the hedge) |
 | TOTL | ✅ Positive — USD data center contracts |
-| GOTO | ✅ Neutral-Positive |
-| BMRI | ⚠️ Manageable — scale + CASA buffer |
-| BBRI | ⚠️ Moderate — micro borrower inflation squeeze |
-| BMTR | ⚠️ Slight negative — USD content costs |
-| TBLA | ⚠️ Mixed — USD revenues offset USD debt |
+| GOTO | ✅ Neutral — limited direct FX exposure |
+| BMTR | ⚠️ Moderate, indirect — IDR-denominated debt now locked, ad-spend risk-off drag |
 | GPRA | ❌ Negative — imported material costs |
+| TBLA | ⚠️ Mixed — partial natural hedge, EPS impact -3% to -5% |
+| BMRI | ⚠️ Manageable — scale + CASA buffer |
+| BBRI | ⚠️ Moderate — flush zone 2,700–2,850 through the stop |
 
-### BI Rate +50bps to 6.25% (July RDG watch)
+### BI Rate +50bps to 6.25% (Aug/year-end watch)
 | Stock | Impact |
 |-------|--------|
 | TOTL | ✅ **IMMUNE/Positive** — zero debt; cash earns more |
-| BMTR | ✅ Low direct impact (D/E 22%) — but spreads widen |
-| ADRO | ✅ Neutral — USD operations |
-| GOTO | ⚠️ Slight — multiple compression; net cash cushions |
-| BBRI | ⚠️ Moderate — NPL recovery delayed a quarter |
-| BMRI | ⚠️ Moderate-High — NIM 4.7% → ~4.4% |
-| TBLA | ❌ High — D/E 193%; coverage back toward 1.7x |
-| GPRA | ❌ Severe — mortgages 13%+ kill demand |
+| BMTR | ✅ Low direct impact — just locked fixed-rate 7.03–7.50% financing |
+| ADRO | ✅ Neutral — D/E 0.12x, USD operations |
+| GOTO | ⚠️ Slight — near-zero debt, DCF discount rate ticks up modestly |
+| BMRI | ⚠️ Mildly positive near-term (CASA-heavy) then moderate credit-side drag |
+| BBRI | ⚠️ Moderate — NIM -15 to -25bps, price impact -5% to -8% |
+| TBLA | ❌ High — D/E 193%, interest coverage ~1.9x; ~Rp70–90bn added annual interest |
+| GPRA | ❌ Severe — mortgages toward 13%+ kill demand |
 
 ### MSCI Frontier Downgrade (November 2026)
 | Stock | Exposure | If Frontier |
@@ -184,7 +183,19 @@
 
 ## Report Index
 
-### July 4, 2026 Reports (Latest)
+### August 12, 2026 Reports (Latest)
+| Report | Stock | Verdict | R/R | Key Update |
+|--------|-------|---------|-----|------------|
+| [analysis_TOTL_2026-08-12.md](reports/analysis_TOTL_2026-08-12.md) | TOTL | 💎 Strong Buy | 2.26:1 | **2nd straight earnings beat; H1 profit +54.6% YoY** |
+| [analysis_GOTO_2026-08-12.md](reports/analysis_GOTO_2026-08-12.md) | GOTO | 💎 Strong Buy | **5.6:1** | **14th week at IDR 50 floor; 2nd profitable quarter** |
+| [analysis_BMRI_2026-08-12.md](reports/analysis_BMRI_2026-08-12.md) | BMRI | ⚡ Spec Buy | **4.3:1** | **Flat price vs +24.4% profit growth — gap widened** |
+| [analysis_BMTR_2026-08-12.md](reports/analysis_BMTR_2026-08-12.md) | BMTR | 🟢 Buy (upgraded) | 6.35:1 | **Bond maturity resolved (~85% confidence); upgraded** |
+| [analysis_TBLA_2026-08-12.md](reports/analysis_TBLA_2026-08-12.md) | TBLA | ⚡ Spec Buy | 2.48:1 | B50 allocation decree de-risks Oct 1 catalyst |
+| [analysis_BBRI_2026-08-12.md](reports/analysis_BBRI_2026-08-12.md) | BBRI | ⚡ Spec Buy | 1.9:1 | +15.5% run; NPL inflection confirmed; stop raised to 2,750 |
+| [analysis_ADRO_2026-08-12.md](reports/analysis_ADRO_2026-08-12.md) | ADRO | 💰 Hold (Income) | 1.43:1 | FY26E guidance trimmed to +35% from +60% |
+| [analysis_GPRA_2026-08-12.md](reports/analysis_GPRA_2026-08-12.md) | GPRA | 🚫 Avoid | — | Q2 QoQ bounce; rights-issue dilution risk added |
+
+### July 4, 2026 Reports
 | Report | Stock | Verdict | R/R | Key Update |
 |--------|-------|---------|-----|------------|
 | [analysis_TOTL_2026-07-04.md](reports/analysis_TOTL_2026-07-04.md) | TOTL | 💎 Strong Buy | 2.28:1 | Flat vs -4.8% IHSG; Q2 earnings ~4 weeks |
@@ -258,8 +269,8 @@
 | R/R Ratio | 10 | (Target – Price) / (Price – Stop); threshold 2:1 (bear market) |
 | **Threshold** | | **Gem: >55 \| Spec Buy: 35–54 \| Hold: 25–34 \| Avoid: <25** |
 
-> **Bear Market Note (July 2026):** BI rate 5.75%, IHSG ~-27% YTD, MSCI monitoring to November — the 3:1 R/R minimum remains adjusted to **2:1 minimum** for Gem/Speculative Buy. Holding cash at 5.75% risk-free is a legitimate alternative.
+> **Rally-Market Note (August 2026):** BI rate 5.75%, IHSG has rallied ~+8.5% since July 4 into an August 12 MSCI checkpoint, with the binding decision deferred to November 2026 — the R/R threshold remains **2:1 minimum** for Gem/Speculative Buy given the still-unresolved MSCI tail risk. Several names in this universe have already captured a meaningful share of their planned 6-month move; sizing should reflect that R/R has compressed since July even where the underlying fundamentals continue to improve.
 
 ---
 
-*All analysis is for informational purposes only and does not constitute investment advice. Indonesian equities carry significant currency, political, and liquidity risks. All prices in IDR unless stated. Analysis date: July 4, 2026.*
+*All analysis is for informational purposes only and does not constitute investment advice. Indonesian equities carry significant currency, political, and liquidity risks. All prices in IDR unless stated. Analysis date: August 12, 2026.*
