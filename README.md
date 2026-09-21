@@ -1,66 +1,66 @@
 # Indonesia Stock Hidden Gem Analysis
 ## GARP + Special Situations Framework — IDX Equity Research
 
-**Latest Analysis Date:** September 14, 2026
+**Latest Analysis Date:** September 21, 2026
 **Universe:** 8 IDX-listed Indonesian equities
 **Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
 **Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC Indonesia, Katadata/Databoks, Antara News, Samuel Sekuritas, UOB Kay Hian, MNC Sekuritas, StockWatch, PintarSaham, Bank Indonesia, MSCI/FTSE Russell index announcements
 
 ---
 
-## ⚠️ Critical Macro Context — September 14, 2026
+## ⚠️ Critical Macro Context — September 21, 2026
 
-| Indicator | Level | Change vs Sept 7 | Implication |
+| Indicator | Level | Change vs Sept 14 | Implication |
 |-----------|-------|------------------|-------------|
-| IHSG Level | **~6,541** (last confirmed close, Fri Sept 11; -0.73% that session) — Monday Sept 14's own close unconfirmed at time of writing | ▼ ~-1.4% (from ~6,636 on Sept 4) | First weekly pullback in a month; broad risk-off, not IDX-specific — see Fed row below |
-| **US Fed Rate-Hike Risk (NEW)** | Market pricing swung to **~80-90% probability of a 25bp Fed hike** at the **Sept 15-16, 2026 FOMC meeting**, on hot US Aug CPI (3.4% YoY) / PPI (5.4% YoY) prints and hawkish comments from Fed Chair Kevin Warsh | New this cycle — a reversal from the cut/hold debate earlier in the year | Chief driver of this week's IHSG pullback and the broad-based (though uneven) decline across BBRI/BMRI/ADRO/TBLA; the FOMC decision itself lands the day after this report |
-| Oil (Brent) | **>$107/bbl** on Middle East escalation | ▲ from ~$91/bbl (Sept 1 spike) | Compounds the EM risk-off tone; a pass-through watch-item for Indonesian energy-subsidy math and the IDR |
-| BI Rate | **5.75%** | Unchanged — no RDG since Aug 18-19 | Next RDG scheduled **Sept 22-23, 2026** — now lands **after** the Fed's Sept 15-16 decision, a new sequencing wrinkle; consensus still expects a BI hold |
-| IDR/USD | **~17,600-17,650** | Roughly flat, pinned near the weaker end of its recent range | Rupiah has held up so far despite the Fed-hike repricing — a genuine stress point if the Fed actually hikes and BI holds regardless |
+| IHSG Level | **~6,441** (last confirmed close, Fri Sept 18; +0.07% that session) — Monday Sept 21's own close unconfirmed at time of writing | ▼ ~-1.5% (from ~6,541 on Sept 11) | Second straight weekly pullback; broad post-Fed-hike digestion rather than an IDX-specific move |
+| **US Fed Rate Hike (CONFIRMED)** | FOMC hiked 25bp on **Sept 16, 2026** to **3.75%-4.00%** — the Fed's first hike in three years, voted 12-0; Fed Chair Kevin Warsh reiterated inflation "remains elevated"; 16 of 18 participants' dot-plot points to another hike later this year | The ~80-90% priced probability flagged Sept 14 **has now happened** | Confirms rather than surprises the market; the open question shifts to whether BI follows suit at its own Sept 22-23 RDG, now 1-2 days after this report |
+| Oil (Brent) | **~$103.87/bbl** (Sept 18, -0.91% that session) | ▼ modestly from >$107 spike, but still ▲13.4% over the past month / ▲55.8% YoY | Still elevated; a live EM-risk and subsidy-math watch item, not yet a relief |
+| BI Rate | **5.75%** | Unchanged — no RDG since Aug 18-19 | RDG lands **Sept 22-23, 2026** — 1-2 days after this report, now with the Fed hike confirmed (not just priced); consensus base case going in still leans toward a hold, but the sequencing raises the stakes |
+| IDR/USD | **~17,812** | ▼ weakened from ~17,600-17,650 | First genuine crack in the rupiah-resilience pattern of the past two cycles — a post-Fed-hike EM currency wobble, live input into the BI decision |
 | MSCI November 2026 Frontier Review | Unresolved | No fresher probability data found this cycle | Still the dominant unresolved binary catalyst for BBRI/BMRI |
-| FTSE Russell Sept 2026 Removal (BMTR) | Effective **Sept 21, 2026** | Now imminent — **one week out** | Mechanical passive-selling risk concentrated in the Sept 15-21 window, live now rather than pending |
-| IDX Floor Policy (GOTO) | Still targeted for **"the 3rd or 4th week of September 2026"** | **No new date confirmed** — 8 of 91 member brokers still not ready; sell queue grew to **~400M lots** (from ~379M) | Overhang keeps building; Sept 14 sits at the start of BEI's own target window with no firmer commitment yet |
-| BMTR Small Bond/Sukuk Tranche | **Redeemed exactly on schedule, Sept 14, 2026** (Obligasi + Sukuk Ijarah Seri C, ~Rp10.6bn combined; delisted from BEI as normal course) | New, positive | First unambiguous, dated proof this cycle of on-schedule debt service — distinct from the still-unconfirmed larger July 6 IDR 672.6bn maturity, but reinforces the no-default thesis (confidence raised ~92%→~93%) |
+| **IDX Floor Policy (GOTO) — NOW DATED** | **Confirmed for September 28, 2026** (BEI announcement); broker readiness jumped to 92 of 93 member brokers (from 83/91); sell queue at the Rp50 floor **shrank** to ~356M lots (from ~400M) | Delayed again from the Sept 7 original target, but now a firm date just **one week out**, replacing the vague "3rd/4th week" language | The single biggest development in the series to date for GOTO — the event this whole thread has been building toward is now dated and imminent |
+| **FTSE Russell Sept 2026 Removal (BMTR)** | **Effective today, Sept 21, 2026 (market open)** | Live now, not "one week out" as of Sept 14 | Mechanical passive-selling event; pre-event trading (Sept 15-18) showed no panic — average turnover, no gap — supporting a "shallow, absorbed dip" base case, though today's own print is unconfirmed at time of writing |
+| BMTR Small Bond/Sukuk Tranche | Redeemed on schedule Sept 14 (carried forward) | Unchanged | Debt-service confidence nudged further to ~94% on continued silence on the still-unconfirmed larger July 6 IDR 672.6bn maturity |
 
-> **Key September 14 Developments vs September 7:**
-> 1. **No stock cleared the 55-point Gem threshold for a second straight cycle.** The top of the universe is now a three-way tie at 52/70 (BMRI, TOTL, BBRI) — none close enough to Gem tier to matter, but a genuinely tighter cluster than Sept 7's 53/53 pairing.
-> 2. **A new, first-time-this-series macro risk landed: a hawkish Fed repricing.** Hot US CPI/PPI prints and hawkish Fed commentary pushed the market to ~80-90% odds of a 25bp hike at the Sept 15-16 FOMC (the day after this report), compounded by Brent above $107/bbl — the dominant driver of this week's broad, if uneven, IHSG pullback (6,636→6,541).
-> 3. **BBRI is the biggest mechanical R/R winner.** Price fell -3.5% to 3,270 on the broad macro pullback while targets and stop held, pushing R/R from 1.9:1 to ~4.0:1 — the best reading in the series. Evidence points to macro-beta, not a thesis break: BBRI stayed a net foreign buy on most individual days even as the broader market and BBCA specifically absorbed heavier outflows, and S&P affirmed BBRI's BBB/Stable/A-2 rating (Sept 8-9).
-> 4. **TOTL's technical picture genuinely improved even as its R/R kept compressing.** For the first time since the failed breakout, TOTL held its IDR 1,475 pivot as support through a full week's range (1,465-1,555) rather than round-tripping below it — but because price rose (1,465→1,500) against unchanged targets, R/R fell further, to 1.19:1, the tightest print yet in this series.
-> 5. **TBLA had its first genuinely two-sided week.** B50 station coverage advanced further (~80%→~94%), but CPO (Malaysia BMD) posted its **first confirmed pullback of the series** (RM4,950-5,018 → RM4,814, guidance stepped down to RM4,400-4,600), and — notably — TBLA's decline this week coincided with, rather than diverged from, broad IHSG weakness, softening the "pure idiosyncratic mispricing" narrative slightly.
-> 6. **GOTO's floor-removal catalyst remains unresolved, not advanced.** BEI's target window ("3rd or 4th week of September") is unchanged from the Sept 1 delay announcement even though Sept 14 now sits at the start of it; the sell queue at the Rp50 floor grew further, to ~400M lots.
-> 7. **BMTR notched a small, concrete positive.** A separate, smaller bond/sukuk tranche (~Rp10.6bn) was redeemed exactly on schedule on Sept 14 — the first hard, dated proof of debt service this cycle — but the FTSE Russell removal (effective Sept 21) is now a live, one-week-out risk rather than a calendar item.
-> 8. **GPRA remains stuck at Avoid** — the ~Rp300bn rights issue is now roughly 11 weeks past its own informal disclosure target with zero terms published, still the single blocking issue; score flat at 25/70 on a genuinely quiet week.
+> **Key September 21 Developments vs September 14:**
+> 1. **The Fed hike happened.** FOMC raised 25bp to 3.75-4.00% on Sept 16 (12-0, first hike in three years), confirming rather than surprising the ~80-90% priced odds from last cycle. IHSG extended its pullback (6,541→6,441) and IDR weakened further (~17,650→~17,812) — the market's attention now shifts to whether BI follows at its own Sept 22-23 RDG, landing just 1-2 days after this report.
+> 2. **GOTO's floor-removal catalyst finally got a firm date: September 28, 2026** — no longer a vague "3rd/4th week" window. Broker readiness jumped to 92/93 (from 83/91) and the sell queue at the floor shrank for the first time in the series (~400M→~356M lots). Score rises to 50/70 (from 48) on this genuinely decision-relevant update, though the outcome itself (orderly clearing vs. a gap-down toward cash-per-share) remains unresolved until next cycle.
+> 3. **BMTR's FTSE Russell removal is live today**, not a calendar item anymore. Pre-event trading (Sept 15-18) showed no panic selling — average volume, no gap down — a mildly reassuring signal, though today's actual print is still unconfirmed. Score eased 1pt (44→43) on an unrelated, resolved SOTP data-quality correction (a stale MNCN price was replaced with verified current data), not on the FTSE event itself.
+> 4. **TOTL's Risk/Reward finally breached 1:1 on its static stop** (0.98:1) after a second week of the IDR 1,475 pivot holding as support and a first-ever intraday pierce of the IDR 1,555 resistance (to 1,615). Rather than a mechanical downgrade, the stop was trailed up to IDR 1,300, restoring R/R to 1.71:1 — flagged explicitly as a risk-management response, not a fundamental improvement. Score eases to 51/70 (from 52).
+> 5. **TBLA had its first genuinely positive week of the series**, rising +0.8% (625→630) *against* a falling IHSG (-1.5% w/w) — the cleanest idiosyncratic-strength signal yet. Both catalysts firmed together for the first time: B50 coverage advanced to ~95%, and CPO rebounded to a 21-month high before closing +1.74% for the week. TBLA's ~193% D/E now sits as the single most time-proximate leverage risk in the universe with BI's RDG just 1-2 days out. Score +1 to 51/70.
+> 6. **BBRI and BMRI diverged on foreign flow this week.** BBRI held roughly flat (3,270→3,280) but flipped to net-sell alongside the state-bank complex (a reversal of the prior cycle's decoupling); BMRI fell further (-1.6%) on a second straight net-sell week (-Rp443.2bn, deepening from -Rp251.5bn), even as its interim dividend ex-date executed exactly on schedule Sept 16. BBRI holds at 52/70; BMRI eases to 51/70 (from 52).
+> 7. **ADRO was the quietest name in the universe this cycle** — price round-tripped to close exactly flat (2,640→2,640), all seven score components unchanged, R/R unchanged at 3.21:1. A second straight week of foreign net-selling and a modest coal pullback (~$146.75→~$144/t) are watch items, not yet score-movers.
+> 8. **GPRA remains stuck at Avoid**, now 24/70 (from 25) — the ~Rp300bn rights issue is roughly 12 weeks past its own informal disclosure target with zero terms published. The Rupiah's reversal to weakening plus the now-confirmed Fed hike ahead of the Sept 22-23 BI RDG were enough to trim Macro Fit by a point, the only component that moved.
 
 ---
 
-## September 14, 2026 — Master Scorecard
+## September 21, 2026 — Master Scorecard
 
-| Stock | Company | Price (IDR) | Verdict | 6M Target | Stop Loss | R/R | vs Sept 7 |
+| Stock | Company | Price (IDR) | Verdict | 6M Target | Stop Loss | R/R | vs Sept 14 |
 |-------|---------|-------------|---------|-----------|-----------|-----|-----------|
-| [BMRI](reports/analysis_BMRI_2026-09-14.md) | Bank Mandiri | 4,360 | ⚡ Speculative Buy | 5,600 | 4,050 | **4.0:1** | ↓ -1.4%; foreign flow flipped to net sell (~-Rp251.5bn), ending a 3-week buying streak; interim dividend ex-date Sept 16 |
-| [TOTL](reports/analysis_TOTL_2026-09-14.md) | Total Bangun Persada | 1,500 | ⚡ Speculative Buy | 1,950 | 1,120 | **1.19:1** ⚠️ | ↑ +2.4%; held the 1,475 pivot as support for a full week — technical improvement, but R/R compressed further, tightest yet |
-| [BBRI](reports/analysis_BBRI_2026-09-14.md) | Bank Rakyat Indonesia | 3,270 | ⚡ Speculative Buy | 3,950 | 3,100 | **4.0:1** ✅ | ↓ -3.5% on Fed-hike repricing; stayed a net foreign buy most days — macro-beta, not a thesis break; S&P affirmed rating |
-| [TBLA](reports/analysis_TBLA_2026-09-14.md) | Tunas Baru Lampung | 625 | ⚡ Speculative Buy | 1,100 | 580 | **10.56:1** ✅ | ↓ -2.3%; first two-sided week — B50 coverage to ~94%, but CPO posted its first pullback of the series |
-| [GOTO](reports/analysis_GOTO_2026-09-14.md) | GoTo Gojek Tokopedia | 50 | ⚡ Speculative Buy | 76 | 38 | **2.2:1** | → Pinned 19th week; floor-removal still "3rd/4th week Sept," no firm date; sell queue grew to ~400M lots |
-| [ADRO](reports/analysis_ADRO_2026-09-14.md) | Alamtri Resources | 2,640 | ⚡ Speculative Buy | 3,250 | 2,450 | **3.21:1** | ↓ -2.9%; breakout stalled/partly reversed; foreign flow flipped to net sell |
-| [BMTR](reports/analysis_BMTR_2026-09-14.md) | Global Mediacom | 115 (est.) | 🟢 Buy | 225 | 100 | **7.33:1** ✅ | → flat; small bond tranche redeemed exactly on schedule Sept 14 (confidence 93%); FTSE Russell removal now 1 week out |
-| [GPRA](reports/analysis_GPRA_2026-09-14.md) | Perdana Gapura Prima | 105 | 🚫 **Avoid** | — | 90 | — | ↓ -0.9%; rights issue still undisclosed (~11 wks overdue) |
+| [BBRI](reports/analysis_BBRI_2026-09-21.md) | Bank Rakyat Indonesia | 3,280 | ⚡ Speculative Buy | 3,950 | 3,100 | **3.7:1** ✅ | → +0.3%; flipped to net foreign sell alongside the state-bank complex (a reversal of last cycle's decoupling); score flat 52/70 |
+| [BMRI](reports/analysis_BMRI_2026-09-21.md) | Bank Mandiri | 4,290 | ⚡ Speculative Buy | 5,600 | 4,050 | **5.5:1** ✅ | ↓ -1.6%; interim dividend ex-date executed on schedule Sept 16; foreign net-sell deepened for a 2nd straight week (~-Rp443.2bn) |
+| [TOTL](reports/analysis_TOTL_2026-09-21.md) | Total Bangun Persada | 1,540 | ⚡ Speculative Buy | 1,950 | 1,300 (trailed) | **1.71:1** | ↑ +2.7%; static R/R breached below 1:1 for the first time — stop trailed up from 1,120 in response |
+| [TBLA](reports/analysis_TBLA_2026-09-21.md) | Tunas Baru Lampung | 630 | ⚡ Speculative Buy | 1,100 | 580 | **9.44:1** ✅ | ↑ +0.8% — first genuinely positive week, and against a falling IHSG; B50 and CPO catalysts both firmed together |
+| [GOTO](reports/analysis_GOTO_2026-09-21.md) | GoTo Gojek Tokopedia | 50 | ⚡ Speculative Buy | 76 | 38 | **2.2:1** | → Pinned 20th week; floor-removal now CONFIRMED for Sept 28 — biggest development in the series for this name |
+| [ADRO](reports/analysis_ADRO_2026-09-21.md) | Alamtri Resources | 2,640 | ⚡ Speculative Buy | 3,250 | 2,450 | **3.21:1** | → flat; quietest name this cycle — all 7 score components unchanged; 2nd straight week of foreign net-selling |
+| [BMTR](reports/analysis_BMTR_2026-09-21.md) | Global Mediacom | 115 | 🟢 Buy | 225 | 100 | **7.33:1** ✅ | → flat; FTSE Russell removal now live (today); pre-event trading showed no panic; score -1 on unrelated SOTP correction |
+| [GPRA](reports/analysis_GPRA_2026-09-21.md) | Perdana Gapuraprima | 102 | 🚫 **Avoid** | — | 90 | — | ↓ -2.9%; rights issue still undisclosed (~12 wks overdue); Macro Fit trimmed on weaker IDR + confirmed Fed hike |
 
 ---
 
-## Key Changes vs September 7, 2026
+## Key Changes vs September 14, 2026
 
-| Stock | Sept 7 Verdict | Sept 14 Verdict | Key Driver |
+| Stock | Sept 14 Verdict | Sept 21 Verdict | Key Driver |
 |-------|----------------|----------------|------------|
-| BMRI | ⚡ Spec Buy (53/70) | ⚡ Spec Buy — **R/R improved to 4.0:1** (52/70) | Foreign flow flipped to net sell after a 3-week buying streak; price eased, R/R improved mechanically |
-| TOTL | ⚡ Spec Buy (53/70) | ⚡ Spec Buy — **R/R compressed further to 1.19:1** (52/70) | Held its pivot as support for the first time, but the price bounce against a fixed target pulled R/R toward parity |
-| BBRI | ⚡ Spec Buy (51/70) | ⚡ Spec Buy — **R/R jumped to ~4.0:1** (52/70) | Fed-hike-driven macro pullback lowered the entry price against unchanged targets; foreign buying held up |
-| TBLA | ⚡ Spec Buy (52/70) | ⚡ Spec Buy — **first two-sided week** (50/70) | CPO's first pullback of the series; price fell in line with, not despite, the broader market |
-| GOTO | ⚡ Spec Buy (48/70) | ⚡ Spec Buy — **unchanged, still deferred** (48/70) | Floor-removal timeline did not advance; sell queue grew further |
-| ADRO | ⚡ Spec Buy (48/70) | ⚡ Spec Buy — **momentum cooled** (47/70) | Breakout stalled/partly reversed; foreign flow flipped to net sell |
-| BMTR | 🟢 Buy (45/70) | 🟢 Buy — **small tranche redeemed on schedule** (44/70) | Positive, dated debt-service proof offset by a broader IHSG correction (macro fit trimmed) |
-| GPRA | 🚫 Avoid (25/70) | 🚫 Avoid — **unchanged** (25/70) | Rights issue still undisclosed, now ~11 weeks overdue |
+| BBRI | ⚡ Spec Buy (52/70) | ⚡ Spec Buy — **flat price, flow flipped to net sell** (52/70) | Moved with the state-bank complex this cycle rather than decoupling; targets/stop unchanged, R/R eased mechanically to 3.7:1 |
+| BMRI | ⚡ Spec Buy (52/70) | ⚡ Spec Buy — **2nd straight net-sell week** (51/70) | Foreign selling deepened (-Rp443.2bn) even as the interim dividend ex-date executed on schedule |
+| TOTL | ⚡ Spec Buy (52/70) | ⚡ Spec Buy — **static R/R breached 1:1, stop trailed** (51/70) | Second week holding the 1,475 pivot plus a first-ever pierce of 1,555 resistance triggered a stop-trail to 1,300 |
+| TBLA | ⚡ Spec Buy (50/70) | ⚡ Spec Buy — **first positive week of the series** (51/70) | Rose against a falling IHSG; B50 and CPO catalysts both firmed together for the first time |
+| GOTO | ⚡ Spec Buy (48/70) | ⚡ Spec Buy — **floor-removal date now CONFIRMED (Sept 28)** (50/70) | Biggest single update in the GOTO thread to date — broker readiness jumped, sell queue shrank |
+| ADRO | ⚡ Spec Buy (47/70) | ⚡ Spec Buy — **quietest name this cycle, fully unchanged** (47/70) | Price round-tripped to an exact flat close; all seven score components held |
+| BMTR | 🟢 Buy (44/70) | 🟢 Buy — **FTSE Russell removal now live** (43/70) | Pre-event trading showed no panic; score dip is from an unrelated, resolved SOTP data correction, not the index event |
+| GPRA | 🚫 Avoid (25/70) | 🚫 Avoid — **unchanged thesis, macro fit trimmed** (24/70) | Rights issue still undisclosed, now ~12 weeks overdue; weaker IDR + confirmed Fed hike ahead of the BI RDG |
 
 ---
 
@@ -68,50 +68,52 @@
 
 ### 💎 Tier 1 — Gem Quality (Score 55+/70)
 
-**No stock in the coverage universe currently clears the 55-point Gem threshold — a second consecutive cycle with Tier 1 empty.** The top of the universe has tightened into a three-way tie at 52/70 (BMRI, TOTL, BBRI), each held back by a different constraint: BMRI and BBRI by macro-driven R/R volatility, TOTL by valuation stretch and a compressing R/R despite improving technicals.
+**No stock in the coverage universe currently clears the 55-point Gem threshold — a third consecutive cycle with Tier 1 empty.** The top of the universe is now led outright by BBRI at 52/70, with a three-way tie for second at 51/70 (BMRI, TOTL, TBLA); each is held back by a different constraint: BBRI/BMRI by macro-driven R/R volatility and unresolved MSCI exposure, TOTL by valuation stretch (R/R that only clears 1:1 after a stop trail), TBLA by unverified leverage (D/E ~193%) with BI's RDG imminent.
 
 ### ⚡ Tier 2 — Speculative Buy / Buy (Score 35–54/70)
 
-**BMRI — Bank Mandiri** *(52/70, down from 53)* — **FOREIGN BUYING STREAK BROKE, R/R IMPROVED ANYWAY**
-- H1 2026 net profit +24.4% YoY remains the latest print (Q3 not due until late Oct); the interim dividend (Rp66/share, ~IDR 6.16tn) now has a confirmed timetable — ex-date Sept 16, payment Oct 2
-- Foreign flow flipped to a modest net sell (~-IDR 251.5bn, week of Sept 7-11), ending three straight weeks of buying — but this coincided with a broad IHSG-wide risk-off move (Fed-hike repricing, oil >$107/bbl), not a BMRI-specific or credit-quality issue
-- Price -1.4% to IDR 4,360; R/R mechanically improved from 3.2:1 to 4.0:1 on the cheaper entry against unchanged targets
+**BBRI — Bank Rakyat Indonesia** *(52/70, unchanged)* — **FLOW FLIPPED, PRICE HELD, R/R STILL STRONG**
+- No new hard fundamental data this cycle (Q3 2026 results still ~5-6 weeks out); S&P's Sept 8-9 BBB/Stable/A-2 affirmation stands unrevised
+- Price essentially flat (+0.3% to IDR 3,280, Sept 18 close) even as the confirmed Fed hike (not just its priced odds) hit the market — a much calmer week than the prior -3.5% swing
+- Foreign flow reversed to a net sell (~-IDR 160.6bn), grouped with BMRI/BBNI as a top net-sell trio — moving *with* the state-bank complex this cycle rather than decoupling as flagged last cycle; read as sector-wide Fed-driven de-risking, not BBRI-specific, since price barely moved
+- Targets/stop unchanged; R/R eased slightly to ~3.7:1 (from ~4.0:1) but still comfortably clears the 2:1 threshold; nearest catalyst is BI's Sept 22-23 RDG, 1-2 days after this report
 
-**TOTL — Total Bangun Persada** *(52/70, down from 53)* — **TECHNICALS IMPROVED, R/R KEEPS COMPRESSING**
+**BMRI — Bank Mandiri** *(51/70, down from 52)* — **SECOND STRAIGHT NET-SELL WEEK**
+- H1 2026 net profit +24.4% YoY remains the latest print (Q3 not due until late Oct); the interim dividend (Rp66/share) ex-date executed exactly on schedule Sept 16, payment due Oct 2
+- Foreign selling deepened to ~-IDR 443.2bn (2nd-largest net-sell on the exchange after BBCA), up from -IDR 251.5bn the prior week — a genuine negative-momentum flag, though a single Sept 17 rotation-driven buy day (+IDR 208.5bn) shows underlying demand persists
+- Price -1.6% to IDR 4,290; R/R mechanically improved to 5.5:1 on the cheaper entry against unchanged targets, though this is flagged as a fixed-stop artifact rather than pure thesis validation given the deteriorating flow trend
+
+**TOTL — Total Bangun Persada** *(51/70, down from 52)* — **STATIC R/R BREACHED 1:1, STOP TRAILED**
 - Zero debt, ~IDR 1.3T net cash; H1 2026 revenue +22.75% YoY, net profit +54.6% YoY remains the latest print (next: Oct 29)
-- For the first time since the failed breakout, TOTL held its IDR 1,475 pivot as support through a full week's range (1,465-1,555) rather than round-tripping below it — a genuine technical improvement
-- Because price rose (+2.4% to IDR 1,500) against unchanged targets, R/R compressed further, from 1.41:1 to 1.19:1 — the tightest print yet in this series, and P/B/P/E remain pushed further past their statistical ceilings
+- For a second consecutive week, TOTL held its IDR 1,475 pivot as support, and this week pierced the IDR 1,555 resistance intraday for the first time (high of 1,615 on Sept 15, heaviest single-day volume of the series) — though the week still closed back below it, a failed-to-confirm breakout
+- Price +2.7% to IDR 1,540 pushed the static Risk/Reward (unchanged Aug-era stop of 1,120) below 1:1 (0.98:1) for the first time in the series — the exact trigger the Sept 14 report flagged as requiring a tier review. Rather than a mechanical downgrade, the stop was trailed up to IDR 1,300, restoring R/R to 1.71:1 as an explicit risk-management fix, not a fundamental improvement
 
-**BBRI — Bank Rakyat Indonesia** *(52/70, up from 51)* — **MACRO PULLBACK, BEST R/R OF THE SERIES**
-- No new hard fundamental data this cycle (Q3 2026 results still ~6 weeks out); S&P Global Ratings affirmed BBRI's BBB/Stable/A-2 rating (Sept 8-9), citing 16.2% YoY loan growth vs. 12.7% industry and loan-at-risk improving to 9.1%
-- Price fell -3.5% to IDR 3,270 alongside the broad IHSG pullback tied to Fed-hike repricing, but BBRI stayed a net foreign buy on most individual days even as the broader market and BBCA specifically absorbed heavier outflows — a genuine decoupling
-- With targets/stop unchanged, R/R jumped from 1.9:1 to ~4.0:1 — the best reading BBRI has produced in this series, though the November MSCI binary and next quarter's NIM/CASA confirmation still keep this a MAINTAIN rather than a Gem-tier upgrade
+**TBLA — Tunas Baru Lampung** *(51/70, up from 50)* — **FIRST GENUINELY POSITIVE WEEK**
+- TBLA rose +0.8% to IDR 630, ending a five-checkpoint losing streak — and did so *against* a falling IHSG (-1.5% w/w) with the index posting a ~Rp1.79tn foreign net-sell — the cleanest idiosyncratic-strength signal the series has produced
+- Both headline catalysts firmed together for the first time: B50 station coverage advanced to ~95% of 6,412 stations, and CPO (Malaysia BMD) rebounded to a 21-month high (~RM4,998 intraweek) before closing the week +1.74%, reversing last cycle's pullback
+- D/E ~193%, interest coverage ~1.9x remain unverified/unchanged pending the Oct 30 Q3 filing; with BI's Sept 22-23 RDG now just 1-2 days after this report, TBLA carries the single most time-proximate, highest-magnitude leverage risk in the whole coverage universe
 
-**TBLA — Tunas Baru Lampung** *(50/70, down from 52)* — **FIRST GENUINELY TWO-SIDED WEEK**
-- B50 nationwide station coverage advanced further to ~94% of 6,412 stations (national biodiesel volume 10.7M KL) — the central catalyst continues to de-risk ahead of the Oct 1 compliance deadline
-- CPO (Malaysia BMD) posted its **first confirmed pullback of the series** (RM4,950-5,018 → RM4,814, -1.45%, with forward guidance stepped down to RM4,400-4,600) — and, notably, TBLA's own decline (-2.3% to IDR 625) coincided with a softer IHSG for the first time, rather than diverging from a rallying one
-- D/E 193%, interest coverage ~1.9x remain unverified/unchanged pending the Oct 30 Q3 filing; the Sept 22-23 BI RDG is the key open risk, now ~8-9 days out
+**GOTO — GoTo Gojek Tokopedia** *(50/70, up from 48)* — **FLOOR-REMOVAL DATE NOW CONFIRMED**
+- BEI has now confirmed a firm date for the Rp50→Rp1 floor removal — **September 28, 2026** — replacing the vague "3rd/4th week of September" window; broker readiness jumped to 92 of 93 member brokers (from 83/91), and the sell queue at the floor shrank for the first time in the series, to ~356M lots (from ~400M)
+- Price remains pinned at IDR 50 for a 20th consecutive week; fresh negotiated-market prints (incl. a further Morgan Stanley disposal, ~1.81B shares at ~Rp28.8/share) continued clearing in the mid-to-high Rp20s, reinforcing that genuine market-clearing demand sits well below the Rp50 floor
+- Targets/stop and R/R (2.2:1) held deliberately flat pending the actual Sept 28 outcome rather than pre-judging it; cash-per-share (~IDR 17.3) remains the hard downside floor
 
-**GOTO — GoTo Gojek Tokopedia** *(48/70, unchanged)* — **DATED CATALYST STILL UNRESOLVED**
-- BEI's target window for the Rp50→Rp1 floor removal ("the 3rd or 4th week of September") is unchanged from the Sept 1 delay announcement, even though Sept 14 now sits at the start of it — no confirmation the previously-unready member brokers are now ready
-- Price remains pinned at IDR 50 for a 19th consecutive week; the sell queue has grown further, to ~400M lots (from ~379M)
-- Fresh negotiated-market prints (incl. a Morgan Stanley buy-then-sell round-trip) traded in the mid-Rp20s this week — reinforcing that genuine market-clearing demand likely sits well below the Rp50 floor; cash-per-share (~IDR 17.3) remains the hard downside floor
+**ADRO — Alamtri Resources** *(47/70, unchanged)* — **THE QUIETEST NAME THIS CYCLE**
+- H1 2026 earnings (+76.8% NI YoY) and the KAI smelter timeline are unchanged/reaffirmed this cycle — no new fundamental data
+- Price round-tripped to close exactly flat at IDR 2,640 (intraweek low 2,590, high 2,670) — all seven score components held unchanged; foreign selling continued for a second straight week (~IDR 132.6bn net sell, up from ~90-113bn), and Newcastle coal eased modestly to ~$144/t (from ~$146.75/t)
+- R/R unchanged at 3.21:1 — the first week this cycle where the metric didn't move mechanically in either direction, since price, stop and target all held flat
 
-**ADRO — Alamtri Resources** *(47/70, down from 48)* — **BREAKOUT STALLED, MOMENTUM COOLED**
-- H1 2026 earnings (+76.8% NI YoY), the KAI smelter timeline, and the coal-price backdrop (~$146-149/t) are all unchanged/reaffirmed this cycle — no new fundamental data
-- The early-September breakout partially reversed: price -2.9% to IDR 2,640, RSI cooled from 60.5 to a neutral ~53.6, and foreign flow flipped from net buying to net selling (~IDR 90-113bn net sell for the week)
-- R/R mechanically improved to 3.21:1 (from 1.96:1) purely on the cheaper entry against unchanged targets — flagged as mechanical, not a fundamental upgrade
-
-**BMTR — Global Mediacom** *(44/70, down from 45)* — **SMALL TRANCHE REDEEMED ON SCHEDULE, NEW RISK NOW LIVE**
-- A separate, smaller bond/sukuk tranche (Obligasi + Sukuk Ijarah Seri C, ~Rp10.6bn combined) was redeemed exactly on schedule on Sept 14, 2026 and delisted from BEI as normal course — the first hard, dated proof this cycle of on-schedule debt service, distinct from the still-unconfirmed larger July 6 IDR 672.6bn maturity; confidence raised from ~92% to ~93%
-- FTSE Russell's removal of BMTR from its Global Equity Index Series is now just **one week out** (effective Sept 21) — a live, near-term mechanical passive-selling risk rather than a calendar item
-- Q2/H1 2026 financials remain unfiled for a fourth consecutive reporting cycle; R/R holds at 7.33:1 (price flat at ~IDR 115) — score dipped one point purely on the broader IHSG correction (Macro Fit trimmed 7→6), not any BMTR-specific negative
+**BMTR — Global Mediacom** *(43/70, down from 44)* — **FTSE RUSSELL REMOVAL NOW LIVE**
+- FTSE Russell's removal of BMTR from its Global Equity Index Series is effective **today, Sept 21** — pre-event trading (Sept 15-18) showed no panic selling, average turnover, no gap down, a mildly reassuring signal ahead of today's actual print
+- The still-unconfirmed larger July 6 IDR 672.6bn bond maturity remains unresolved; debt-service confidence nudged further to ~94% on continued silence (77 days). Q2/H1 2026 financials remain unfiled for a fifth consecutive reporting cycle
+- R/R holds at 7.33:1 (price flat at IDR 115) — the one-point score dip is from an unrelated, resolved SOTP data-quality correction (a stale MNCN price was replaced with verified current data, shrinking the sum-of-the-parts cushion), not from the FTSE event itself
 
 ### 🚫 Tier 4 — Avoid
 
-**GPRA — Perdana Gapuraprima** *(25/70, unchanged)*
-- The ~Rp300bn rights issue approved at the June 29 RUPSLB remains completely undisclosed in terms, now roughly 11 weeks past the company's own informal "end of H1" target — still the single blocking issue
-- Price was choppy but range-bound (IDR 104-108 intraweek, closing 105 vs. 106) rather than trending in either direction; no new volume/foreign-flow data was found this cycle in either direction
+**GPRA — Perdana Gapuraprima** *(24/70, down from 25)*
+- The ~Rp300bn rights issue approved at the June 29 RUPSLB remains completely undisclosed in terms, now roughly 12 weeks past the company's own informal "end of H1" target — still the single blocking issue, confirmed via a dedicated search of the IDX static announcement archive
+- Price resumed its gradual downtrend (-2.9% to IDR 102, closing at the week's low); newly confirmed volume data (two sessions >110M shares) reads as churn/failed-rally rather than clean accumulation or distribution
+- The one point moving this cycle is Macro Fit (6→5): the Rupiah reversed to weakening and the Fed's hike — merely priced-in last cycle — is now confirmed and sits directly ahead of the Sept 22-23 BI RDG
 - Legacy holders: continue managing risk at the IDR 90 stop reference; re-evaluate at Q3 earnings (Oct 30), at the Sept 22-23 BI RDG, and immediately upon any rights-issue terms disclosure
 
 ---
@@ -120,69 +122,70 @@
 
 | Date | Event | Exposure |
 |------|-------|----------|
-| **Sept 15-16 (NEW, imminent)** | US Federal Reserve FOMC meeting — market pricing ~80-90% odds of a 25bp hike | Universe-wide via IDR/IHSG risk sentiment; lands the day after this report |
-| **Sept 15-21 (window)** | FTSE Russell Sept 2026 rebalance takes effect (Sept 18 data, Sept 21 open) | BMTR — mechanical passive-selling risk, now 1 week out |
-| **Sept 15-28 (still the target window)** | IDX plans to abolish the Rp50 minimum price floor (Rp1 new floor) — no firmer date confirmed as of Sept 14 | GOTO — unresolved structural risk/catalyst |
-| **Sept 22-23** | Bank Indonesia RDG — first meeting since Aug 18-19, now scheduled after the Fed's decision | Universe-wide; especially TBLA (leverage), BBRI/BMRI (NIM) |
-| Oct 1 | B50 nationwide biodiesel compliance deadline | TBLA — coverage now ~94%, remaining gap concentrated in Papua/Maluku |
-| Oct 29 | TOTL Q3 2026 earnings | Confirming/re-rating catalyst — key to restoring R/R headroom after the failed breakout |
-| Oct 30 | TBLA and GPRA Q3/9M 2026 earnings | TBLA — first hard confirmation of B50 volume conversion; GPRA — re-evaluation trigger |
-| Late Oct/Nov | BMRI, BMTR, GOTO Q3 earnings | Re-rating catalysts; BMTR's Q2/H1 filing still outstanding after 3 cycles |
+| ~~Sept 15-16~~ ✅ Occurred | US Federal Reserve FOMC — hiked 25bp to 3.75-4.00% (12-0, first hike in 3 years) | Universe-wide via IDR/IHSG risk sentiment; confirmed, not merely priced |
+| **Sept 21 (today, live)** | FTSE Russell Sept 2026 rebalance takes effect at today's market open | BMTR — mechanical passive-selling risk, live now; pre-event trading showed no panic |
+| **Sept 22-23 (imminent, 1-2 days out)** | Bank Indonesia RDG — first meeting since Aug 18-19, now following the Fed's confirmed hike | Universe-wide; especially TBLA (leverage), BBRI/BMRI (NIM), GPRA (KPR rates) |
+| **Sept 28 (NEW, confirmed, 1 week out)** | IDX abolishes the Rp50 minimum price floor (Rp1 new floor) — date now firm per BEI announcement | GOTO — the central dated catalyst of the whole series; broker readiness 92/93 |
+| Oct 1 | B50 nationwide biodiesel compliance deadline | TBLA — coverage now ~95%, remaining gap concentrated in Papua/Maluku |
+| Oct 29 | TOTL Q3 2026 earnings | Confirming/re-rating catalyst — key test after the stop-trail and the first R/R sub-1:1 print |
+| Oct 30 | TBLA and GPRA Q3/9M 2026 earnings | TBLA — first hard confirmation of B50 volume conversion and D/E ~193%; GPRA — re-evaluation trigger |
+| Late Oct/Nov | BMRI, BMTR, GOTO Q3 earnings | Re-rating catalysts; BMTR's Q2/H1 filing still outstanding after 4 cycles |
 | Nov (early) | BBRI Q3 2026 earnings | Test of whether the H1 loan-growth acceleration (16.2%) is sustainable |
 | **November** | MSCI binding monitoring review (Indonesia EM status); frontier-consultation risk unresolved | BBRI/BMRI forced-selling tail if reforms stall |
-| TBD | GPRA rights-issue terms disclosure (now ~11 weeks overdue) | Re-evaluation trigger the moment it lands |
+| TBD | GPRA rights-issue terms disclosure (now ~12 weeks overdue) | Re-evaluation trigger the moment it lands |
+| TBD | BMTR July 6 IDR 672.6bn bond maturity — still unconfirmed as resolved | Debt-service confidence at ~94%, unconfirmed |
 
 ---
 
-## Portfolio Construction — September 14, 2026
+## Portfolio Construction — September 21, 2026
 
 | Investor Type | Allocation |
 |--------------|------------|
-| **High-Conviction GARP** | 20% BMRI + 20% BBRI + 20% TOTL + 15% TBLA + 10% ADRO + 10% GOTO + 5% BMTR |
+| **High-Conviction GARP** | 20% BBRI + 20% BMRI + 20% TOTL + 15% TBLA + 10% ADRO + 10% GOTO + 5% BMTR |
 | **Balanced Bear/Rally Market** | 20% BBRI + 20% BMRI + 15% TOTL + 15% TBLA + 15% ADRO + 10% GOTO + 5% BMTR |
 | **Income Focused** | 30% BBRI + 25% BMRI + 25% ADRO + 20% TOTL |
 | **Contrarian/Speculative** | 20% GOTO + 20% TBLA + 20% BMTR + 15% TOTL + 15% ADRO + 10% BBRI |
 
-*With Tier 1 empty for a second straight cycle and the top three names tied at 52/70, allocations lean evenly across BMRI/BBRI/TOTL rather than around a single anchor. BBRI's weight nudged up on its best-of-series R/R (~4.0:1) and confirmed foreign-flow decoupling from the broader macro pullback; TBLA trimmed modestly given its first two-sided week.*
+*With Tier 1 empty for a third straight cycle, BBRI now leads outright at 52/70 with BMRI/TOTL/TBLA tied for second at 51/70 — allocations lean toward BBRI on flow resilience (price held despite the confirmed Fed hike) while staying diversified across the tight second tier. TBLA's weight holds given its first genuinely positive week and firming catalysts, even as its leverage risk sits directly ahead of the Sept 22-23 BI RDG. GOTO's Contrarian/Speculative weight is worth flagging as higher-stakes than usual with the Sept 28 floor-removal date now confirmed and just one week out.*
 
 ---
 
-## Stress Test Summary — September 14, 2026
+## Stress Test Summary — September 21, 2026
 
-### US Fed Hike (Sept 15-16 FOMC, ~80-90% market-implied odds) — NEW
+### US Fed Hike — CONFIRMED (Sept 16, 25bp to 3.75-4.00%)
+| Stock | Impact (realized this cycle) |
+|-------|--------|
+| TOTL | ✅ Minimal, as expected — zero debt; price actually rose +2.7% this week |
+| GOTO | ✅ Minimal, as expected — pinned at the floor regardless |
+| BMTR | ✅ Low, as expected — price flat |
+| ADRO | ⚠️ Mixed, as expected — price round-tripped to flat; foreign selling continued a 2nd week |
+| GPRA | ⚠️ Realized — Rupiah reversed to weakening, Macro Fit trimmed a point |
+| TBLA | ⚠️ Not yet realized directly — TBLA rose despite the hike; the live risk is now BI's own Sept 22-23 response |
+| BMRI/BBRI | ⚠️ Realized unevenly — BBRI held flat and flipped to net-sell with the state-bank complex; BMRI fell further on a deepening 2nd straight net-sell week |
+
+### BI Rate Decision — IMMINENT (Sept 22-23, 1-2 days after this report, now following a confirmed Fed hike)
+| Stock | Impact if +50bps to 6.25% | Impact if Hold at 5.75% (still base case) |
+|-------|--------|--------|
+| TOTL | ✅ **IMMUNE/Positive** — zero debt | Neutral |
+| BMTR | ✅ Low direct impact — locked fixed-rate 7.03-7.50% financing | Neutral |
+| ADRO | ✅ Neutral — low D/E, USD operations | Neutral |
+| GOTO | ⚠️ Slight — near-zero debt, DCF discount rate ticks up modestly | Neutral — Sept 28 floor removal is the bigger near-term driver |
+| BMRI | ⚠️ Mildly positive near-term (CASA-heavy) then moderate credit-side drag | Neutral, watch for a foreign-flow relief bounce after 2 down weeks |
+| BBRI | ⚠️ Moderate — NIM -15 to -25bps, price impact -5% to -8% | Neutral, watch for flow to re-decouple from the state-bank complex |
+| TBLA | ❌ **Highest sensitivity in the universe** — D/E ~193%, interest coverage ~1.9x; ~Rp70-90bn added annual interest; now the single most time-proximate risk in the whole series | Would likely extend this week's idiosyncratic-strength move |
+| GPRA | ❌ Severe if it occurs — mortgages toward 13%+ kill demand, compounding an already-decelerating KPR growth rate (~4.4% YoY) | Neutral — sector commentary still frames a hold as the more favorable outcome |
+
+### IDR Weakens Further (already moved to ~17,812 this cycle; stress case 19,500)
 | Stock | Impact |
 |-------|--------|
-| TOTL | ✅ Minimal — zero debt, largely domestic revenue base |
-| GOTO | ✅ Minimal — near-zero debt; DCF discount rate ticks up marginally |
-| BMTR | ✅ Low — locked fixed-rate IDR financing, limited direct USD exposure |
-| ADRO | ⚠️ Mixed — USD coal revenues are a natural hedge to IDR weakness, but risk-off can pressure the equity regardless of the commodity backdrop |
-| GPRA | ⚠️ Moderate — a hike compounds the existing KPR/mortgage-rate headwind ahead of the Sept 22-23 BI RDG |
-| TBLA | ⚠️ Moderate — a Fed hike raises the odds BI holds or hikes at Sept 22-23, the single largest open risk given ~193% D/E |
-| BMRI/BBRI | ⚠️ Moderate — this week's actual pullback (BMRI -1.4%, BBRI -3.5%) is the live test case; BBRI showed a genuine decoupling (net foreign buy most days) while BMRI's 3-week buying streak broke |
-
-### IDR Weakens to 19,500
-| Stock | Impact |
-|-------|--------|
-| ADRO | ✅ Strongly Positive — USD revenues (the hedge); coal ASP tailwind remains firm (~$146-149/t) |
+| ADRO | ✅ Strongly Positive — USD revenues (the hedge); coal ASP still elevated (~$144/t) despite a modest pullback |
 | TOTL | ✅ Positive — USD data center contracts; zero-debt structure insulated either direction |
 | GOTO | ✅ Neutral — limited direct FX exposure; cash pile (~IDR 17.3/share) erodes in real USD terms |
 | BMTR | ⚠️ Moderate, indirect — IDR-denominated debt locked, ad-spend risk-off drag |
-| GPRA | ❌ Negative — imported material costs |
+| GPRA | ❌ Negative — imported material costs; the depreciation this cycle is the first real (not just hypothetical) move in this direction |
 | TBLA | ⚠️ Mixed — partial natural hedge, EPS impact -3% to -5% |
-| BMRI | ⚠️ Manageable — scale + CASA buffer |
+| BMRI | ⚠️ Manageable — scale + CASA buffer, but flow has now turned negative for 2 straight weeks |
 | BBRI | ⚠️ Moderate — flush zone 2,900-3,050 through the stop |
-
-### BI Rate +50bps to 6.25% (decision due Sept 22-23, now after the Fed)
-| Stock | Impact |
-|-------|--------|
-| TOTL | ✅ **IMMUNE/Positive** — zero debt |
-| BMTR | ✅ Low direct impact — locked fixed-rate 7.03-7.50% financing |
-| ADRO | ✅ Neutral — low D/E, USD operations |
-| GOTO | ⚠️ Slight — near-zero debt, DCF discount rate ticks up modestly |
-| BMRI | ⚠️ Mildly positive near-term (CASA-heavy) then moderate credit-side drag |
-| BBRI | ⚠️ Moderate — NIM -15 to -25bps, price impact -5% to -8% |
-| TBLA | ❌ High if it occurs — D/E 193%, interest coverage ~1.9x; ~Rp70-90bn added annual interest — the single largest open risk to this thesis, live at the Sept 22-23 RDG, now compounded by a hawkish Fed |
-| GPRA | ❌ Severe if it occurs — mortgages toward 13%+ kill demand |
 
 ### MSCI Frontier Downgrade (November 2026, unresolved)
 | Stock | Exposure | If Frontier |
@@ -200,7 +203,19 @@
 
 ## Report Index
 
-### September 14, 2026 Reports (Latest)
+### September 21, 2026 Reports (Latest)
+| Report | Stock | Verdict | R/R | Key Update |
+|--------|-------|---------|-----|------------|
+| [analysis_BBRI_2026-09-21.md](reports/analysis_BBRI_2026-09-21.md) | BBRI | ⚡ Spec Buy | **3.7:1** ✅ | Flow flipped to net sell alongside the state-bank complex; price held flat, score unchanged at 52/70 |
+| [analysis_BMRI_2026-09-21.md](reports/analysis_BMRI_2026-09-21.md) | BMRI | ⚡ Spec Buy | **5.5:1** ✅ | Second straight net-sell week (-Rp443.2bn); interim dividend ex-date executed on schedule |
+| [analysis_TOTL_2026-09-21.md](reports/analysis_TOTL_2026-09-21.md) | TOTL | ⚡ Spec Buy (Held) | 1.71:1 (trailed) | **Static R/R breached below 1:1 for the first time; stop trailed up from 1,120 to 1,300** |
+| [analysis_TBLA_2026-09-21.md](reports/analysis_TBLA_2026-09-21.md) | TBLA | ⚡ Spec Buy | **9.44:1** ✅ | **First genuinely positive week — rose against a falling IHSG; B50 and CPO catalysts both firmed** |
+| [analysis_GOTO_2026-09-21.md](reports/analysis_GOTO_2026-09-21.md) | GOTO | ⚡ Spec Buy | 2.2:1 | **Floor-removal date now CONFIRMED for Sept 28 — biggest update in the series for this name** |
+| [analysis_ADRO_2026-09-21.md](reports/analysis_ADRO_2026-09-21.md) | ADRO | ⚡ Spec Buy | 3.21:1 | Quietest name this cycle — price round-tripped to an exact flat close, all 7 score components unchanged |
+| [analysis_BMTR_2026-09-21.md](reports/analysis_BMTR_2026-09-21.md) | BMTR | 🟢 Buy | **7.33:1** | FTSE Russell removal now live (today); pre-event trading showed no panic |
+| [analysis_GPRA_2026-09-21.md](reports/analysis_GPRA_2026-09-21.md) | GPRA | 🚫 Avoid | — | Rights issue still undisclosed (~12 wks overdue); Macro Fit trimmed on weaker IDR |
+
+### September 14, 2026 Reports
 | Report | Stock | Verdict | R/R | Key Update |
 |--------|-------|---------|-----|------------|
 | [analysis_BMRI_2026-09-14.md](reports/analysis_BMRI_2026-09-14.md) | BMRI | ⚡ Spec Buy | **4.0:1** | Foreign flow flipped to net sell after 3-week streak; R/R improved on cheaper entry |
@@ -322,8 +337,8 @@
 | R/R Ratio | 10 | (Target – Price) / (Price – Stop); threshold 2:1 (bear market) |
 | **Threshold** | | **Gem: >55 \| Spec Buy: 35–54 \| Hold: 25–34 \| Avoid: <25** |
 
-> **Rally-Market Note (September 2026):** BI rate 5.75% (held since Aug 18-19; next decision Sept 22-23, now scheduled *after* the Sept 15-16 Fed FOMC meeting), IHSG pulled back to ~6,541 (from ~6,636) this week on a hawkish US Fed repricing (~80-90% odds of a 25bp hike) and oil above $107/bbl, with the November 2026 MSCI review still the binding longer-dated tail risk. **For a second straight cycle, no stock clears the 55-point Gem threshold** — BMRI, TOTL, and BBRI are now tied at 52/70, each held back by a different constraint (R/R volatility for the banks, valuation stretch for TOTL). BBRI's R/R improved the most (1.9:1→~4.0:1) on the macro pullback alone, with foreign flows suggesting genuine stock-specific decoupling from the broader sell-off. GOTO's dated catalyst (the Rp50 floor removal) remains unresolved, not advanced; BMTR's FTSE Russell removal risk is now one week out, offset by a small, dated proof of on-schedule debt service. The R/R threshold remains **2:1 minimum** for Gem/Speculative Buy sizing.
+> **Rally-Market Note (September 2026):** BI rate 5.75% (held since Aug 18-19; RDG now just 1-2 days out, Sept 22-23, following the Fed's confirmed 25bp hike to 3.75-4.00% on Sept 16), IHSG extended its pullback to ~6,441 (from ~6,541) as the market digests the confirmed hike and a weaker Rupiah (~17,812), with the November 2026 MSCI review still the binding longer-dated tail risk. **For a third straight cycle, no stock clears the 55-point Gem threshold** — BBRI now leads outright at 52/70, with BMRI/TOTL/TBLA tied for second at 51/70. GOTO's dated catalyst (the Rp50 floor removal) is now genuinely resolved-in-timing — confirmed for Sept 28 — the single biggest update across the whole universe this cycle; BMTR's FTSE Russell removal is live today, with pre-event trading showing no panic. The R/R threshold remains **2:1 minimum** for Gem/Speculative Buy sizing.
 
 ---
 
-*All analysis is for informational purposes only and does not constitute investment advice. Indonesian equities carry significant currency, political, and liquidity risks. All prices in IDR unless stated. Analysis date: September 14, 2026.*
+*All analysis is for informational purposes only and does not constitute investment advice. Indonesian equities carry significant currency, political, and liquidity risks. All prices in IDR unless stated. Analysis date: September 21, 2026.*
