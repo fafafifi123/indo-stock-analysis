@@ -1,13 +1,32 @@
 # Indonesia Stock Hidden Gem Analysis
 ## GARP + Special Situations Framework — IDX Equity Research
 
-**Latest Analysis Date:** October 5, 2026
+**Latest Analysis Date:** October 12, 2026
 **Universe:** 8 IDX-listed Indonesian equities
 **Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
 **Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC Indonesia, Katadata/Databoks, Antara News, Samuel Sekuritas, UOB Kay Hian, MNC Sekuritas, StockWatch, PintarSaham, Bank Indonesia, MSCI/FTSE Russell index announcements
 
 ---
 
+
+## 🆕 October 12, 2026 — Weekly Update (Master Scorecard)
+
+**Macro (verified this cycle):** IHSG closed **6,031.28 on Oct 8** (-1.88%, 497 decliners; Oct 2 close 6,036.89); Oct 9 session 1 was 6,052.51 (+0.35%), Oct 9 close not found. FOMC minutes read hawkish (Fed funds 3.75–4.00%); BI 5.75%; IDR ~17,880–17,970; foreign YTD net sell Rp82.55T. **Data caveat:** this was a quiet week for company news. No new filings were found for any holding, so targets and stops are carried forward and R/R is re-derived from the latest price. Several Oct 8–9 closes are unverified (marked in each report).
+
+| Stock | Company | Price (IDR) | Verdict | 6M Target (Base) | Stop Loss | R/R | Score | vs Oct 5 |
+|-------|---------|-------------|---------|------------------|-----------|-----|-------|----------|
+| [TBLA](reports/analysis_TBLA_2026-10-12.md) | Tunas Baru Lampung | 610 | ⚡ Speculative Buy (low conviction) | 1,100 | 580 | 16.3:1 (mechanical) | 47 | ↑ +0.8%; volume -45%; CPO RM4,310 (Oct 7); Q3 Oct 30 |
+| [TOTL](reports/analysis_TOTL_2026-10-12.md) | Total Bangun Persada | 1,510 | 🟡 Hold | 1,950 | 1,120 | 1.13:1 🔴 | 46 | ↓ -2.9%; 1,475 pivot lost on Oct 8 close, Oct 9 bounce from 1,435 |
+| [BMRI](reports/analysis_BMRI_2026-10-12.md) | Bank Mandiri | 4,030 (Oct 2, carried) | 🟡 Hold | 5,150 | 3,900 | 8.6:1 (3.4:1 vs Bear) | 46 | No Oct 8–9 close found; restoration trigger unverifiable |
+| [ADRO](reports/analysis_ADRO_2026-10-12.md) | Alamtri Resources | ~2,550 (approx.) | ⚡ Speculative Buy | 3,250 | 2,300 | 2.8:1 | 45 | ↑ ~+2%; above MA200; small foreign net buy Oct 9 |
+| [BBRI](reports/analysis_BBRI_2026-10-12.md) | Bank Rakyat Indonesia | 3,030 (Oct 8) | 🟡 Hold | 3,860 | 2,900 | 6.4:1 (3.6:1 vs Bear) | 44 | ↓ -1.3%; -3.5% on Oct 8; consensus TP ~3,857 |
+| [GOTO](reports/analysis_GOTO_2026-10-12.md) | GoTo Gojek Tokopedia | 30 (Oct 8) | ⚡ Speculative Buy | 76 | 24 | 7.7:1 (1.3:1 vs sell-side 38) | 47 | Flat; 29–31 range; Oct 14 EGM confirmed (treasury-share cancellation) |
+| [BMTR](reports/analysis_BMTR_2026-10-12.md) | Global Mediacom | 76 (Oct 9, single source) | ⚡ Speculative Buy | 115 | 66 | 3.9:1 | 37 | ↓ -1.3%; H1 filing still unlocated (6th cycle) |
+| [GPRA](reports/analysis_GPRA_2026-10-12.md) | Perdana Gapura Prima | 102 | 🚫 **Avoid** | — | 90 | — | 24 | ↑ +4.1%; 114.6M-share spike Oct 9, cause unknown; rights issue terms still undisclosed |
+
+*Event watch: GOTO EGM **Oct 14**; TOTL Q3 ~Oct 29 (unconfirmed); TBLA/GPRA Q3 Oct 30 (carried forward); BBRI/BMRI/ADRO Q3 late Oct–Nov (dates unconfirmed); MSCI November review. The Oct 5 sections below (tiers, calendar, portfolio, stress test) are retained as the last full framework update; where they conflict with the table above, the table above is current. Informational only; not investment advice.*
+
+---
 
 ## ⚠️ Critical Macro Context — October 5, 2026
 
@@ -135,7 +154,19 @@ BBRI ❌ highest exposure; BMRI ❌ high (foreigners already selling since Sept 
 ---
 ## Report Index
 
-### October 5, 2026 Reports (Latest)
+### October 12, 2026 Reports (Latest)
+| Report | Stock | Verdict | R/R | Key Update |
+|--------|-------|---------|-----|------------|
+| [analysis_TBLA_2026-10-12.md](reports/analysis_TBLA_2026-10-12.md) | TBLA | ⚡ Spec Buy | 16.3:1 (mechanical) | Quiet week; volume -45%; CPO slipping |
+| [analysis_TOTL_2026-10-12.md](reports/analysis_TOTL_2026-10-12.md) | TOTL | 🟡 Hold | 1.13:1 | Pivot lost on close; Oct 9 bounce |
+| [analysis_BMRI_2026-10-12.md](reports/analysis_BMRI_2026-10-12.md) | BMRI | 🟡 Hold | 8.6:1 (3.4:1 vs Bear) | No new price/flow data; macro worse |
+| [analysis_ADRO_2026-10-12.md](reports/analysis_ADRO_2026-10-12.md) | ADRO | ⚡ Spec Buy | 2.8:1 | Above MA200; testing 2,450–2,500 support |
+| [analysis_BBRI_2026-10-12.md](reports/analysis_BBRI_2026-10-12.md) | BBRI | 🟡 Hold | 6.4:1 (3.6:1 vs Bear) | -3.5% on Oct 8; June 10 flow headline excluded |
+| [analysis_GOTO_2026-10-12.md](reports/analysis_GOTO_2026-10-12.md) | GOTO | ⚡ Spec Buy | 7.7:1 | Stabilising at 29–31; Oct 14 EGM |
+| [analysis_BMTR_2026-10-12.md](reports/analysis_BMTR_2026-10-12.md) | BMTR | ⚡ Spec Buy | 3.9:1 | Basing mid-70s; H1 filing still missing |
+| [analysis_GPRA_2026-10-12.md](reports/analysis_GPRA_2026-10-12.md) | GPRA | 🚫 Avoid | — | Unexplained volume spike; rights issue undisclosed |
+
+### October 5, 2026 Reports
 | Report | Stock | Verdict | R/R | Key Update |
 |--------|-------|---------|-----|------------|
 | [analysis_TOTL_2026-10-05.md](reports/analysis_TOTL_2026-10-05.md) | TOTL | 🟡 Hold ⬇ | **0.91:1** 🔴 | Failed breakout; R/R below parity |
