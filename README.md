@@ -1,7 +1,7 @@
 # Indonesia Stock Hidden Gem Analysis
 ## GARP + Special Situations Framework — IDX Equity Research
 
-**Latest Analysis Date:** October 12, 2026
+**Latest Analysis Date:** October 19, 2026
 **Universe:** 8 IDX-listed Indonesian equities
 **Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
 **Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC Indonesia, Katadata/Databoks, Antara News, Samuel Sekuritas, UOB Kay Hian, MNC Sekuritas, StockWatch, PintarSaham, Bank Indonesia, MSCI/FTSE Russell index announcements
@@ -9,7 +9,29 @@
 ---
 
 
-## 🆕 October 12, 2026 — Weekly Update (Master Scorecard)
+## 🆕 October 19, 2026 — Weekly Update (MSCI Shock Week)
+
+> ### ⚠️ Read first
+> **IHSG fell 11.57% on Fri Oct 16 to 5,185.11 (-14.91% on the week)** after MSCI opened a consultation to reclassify Indonesia from Emerging to **Standalone** (comments to Apr 30, 2027; decision by Jun 30, 2027). A 30-minute trading halt hit at the open. BBRI (2,640) and BMRI (3,390) each fell ~14.8% in one session, gapping through their Oct 12 stops (2,900 / 3,900). IDR is reported through 18,000; **BI announces Wed Oct 21**. Targets and stops were re-based in the bank reports; the Oct 12 and Oct 5 tables below are superseded where they conflict.
+>
+> **Data caveat:** Oct 16 closes were found only for BBRI and BMRI (one source citing IDX); GOTO has an Oct 16 *open* only; ADRO, TBLA, TOTL, BMTR and GPRA have **no price after Oct 9**. Verdicts for those names are conditional and say what to do at each price. Check your broker quote first.
+
+| Stock | Company | Price (IDR) | Verdict | 6M Target (Base) | Stop | R/R | Score | vs Oct 12 |
+|-------|---------|-------------|---------|------------------|------|-----|-------|-----------|
+| [ADRO](reports/analysis_ADRO_2026-10-19.md) | Alamtri Resources | ~2,550 (Oct 8-9; Oct 16 not found) | ⚡ Speculative Buy (conditional) | 3,250 | 2,300 (re-base 2,000 if breached) | 2.8:1 at 2,550 | 43 | Coal US$150, Brent ~$110, IDR weak = tailwind; price unverified |
+| [GOTO](reports/analysis_GOTO_2026-10-19.md) | GoTo Gojek Tokopedia | 23 (Oct 16 open) | ⚡ Speculative Buy | 76 (trading target 38) | 19 (old 24 breached) | 13.3:1 mech. / 3.75:1 vs 38 | 44 | EGM Oct 14: treasury cancellation approved; near cash/share |
+| [BBRI](reports/analysis_BBRI_2026-10-19.md) | Bank Rakyat Indonesia | 2,640 (Oct 16) | 🟡 Hold | 3,430 | 2,300 | 2.3:1 | 38 | -12.9%; stop gapped; ~6.5x P/E, ~13% yield |
+| [BMRI](reports/analysis_BMRI_2026-10-19.md) | Bank Mandiri | 3,390 (Oct 16) | 🟡 Hold | 4,330 | 3,000 | 2.4:1 | 38 | -15.9% vs Oct 2 ref.; ~0.82x book |
+| [TBLA](reports/analysis_TBLA_2026-10-19.md) | Tunas Baru Lampung | 610 (Oct 9; Oct 16 not found) | 🟡 Hold (downgrade) | 1,100 | 580 | 16.3:1 (artifact) | 43 | CPO RM4,735 (+9.9%) but FX debt + BI Oct 21 |
+| [TOTL](reports/analysis_TOTL_2026-10-19.md) | Total Bangun Persada | 1,510 (Oct 9; Oct 16 not found) | 🟡 Hold | 1,950 (Mirae TP 1,560) | 1,120 | 1.13:1 | 44 | Directors bought at 1,470 (Oct 8, Oct 13) |
+| [BMTR](reports/analysis_BMTR_2026-10-19.md) | Global Mediacom | 76 (Oct 9; Oct 16 not found) | 🟡 Hold (downgrade) | 115 | 66 | 3.9:1 (stale) | 33 | H1 filing unlocated (7th cycle); ad-cycle risk |
+| [GPRA](reports/analysis_GPRA_2026-10-19.md) | Perdana Gapura Prima | 102 (Oct 9; Oct 16 not found) | 🚫 Avoid | — | 90 | — | 22 | Rights-issue terms still undisclosed |
+
+*Event watch: **BI RDG Wed Oct 21**; OJK/IDX responses on shareholding transparency; Q3 results (TOTL ~Oct 29, TBLA/GPRA Oct 30, banks/ADRO late Oct-Nov, dates unconfirmed); MSCI consultation to Apr 30, 2027. Informational only; not investment advice.*
+
+---
+
+## October 12, 2026 — Weekly Update (Master Scorecard) *(superseded by Oct 19)*
 
 **Macro (verified this cycle):** IHSG closed **6,031.28 on Oct 8** (-1.88%, 497 decliners; Oct 2 close 6,036.89); Oct 9 session 1 was 6,052.51 (+0.35%), Oct 9 close not found. FOMC minutes read hawkish (Fed funds 3.75–4.00%); BI 5.75%; IDR ~17,880–17,970; foreign YTD net sell Rp82.55T. **Data caveat:** this was a quiet week for company news. No new filings were found for any holding, so targets and stops are carried forward and R/R is re-derived from the latest price. Several Oct 8–9 closes are unverified (marked in each report).
 
@@ -154,7 +176,19 @@ BBRI ❌ highest exposure; BMRI ❌ high (foreigners already selling since Sept 
 ---
 ## Report Index
 
-### October 12, 2026 Reports (Latest)
+### October 19, 2026 Reports (Latest)
+| Report | Stock | Verdict |
+|--------|-------|---------|
+| [analysis_ADRO_2026-10-19.md](reports/analysis_ADRO_2026-10-19.md) | ADRO | ⚡ Speculative Buy (conditional) |
+| [analysis_GOTO_2026-10-19.md](reports/analysis_GOTO_2026-10-19.md) | GOTO | ⚡ Speculative Buy |
+| [analysis_BBRI_2026-10-19.md](reports/analysis_BBRI_2026-10-19.md) | BBRI | 🟡 Hold |
+| [analysis_BMRI_2026-10-19.md](reports/analysis_BMRI_2026-10-19.md) | BMRI | 🟡 Hold |
+| [analysis_TBLA_2026-10-19.md](reports/analysis_TBLA_2026-10-19.md) | TBLA | 🟡 Hold (downgrade) |
+| [analysis_TOTL_2026-10-19.md](reports/analysis_TOTL_2026-10-19.md) | TOTL | 🟡 Hold |
+| [analysis_BMTR_2026-10-19.md](reports/analysis_BMTR_2026-10-19.md) | BMTR | 🟡 Hold (downgrade) |
+| [analysis_GPRA_2026-10-19.md](reports/analysis_GPRA_2026-10-19.md) | GPRA | 🚫 Avoid |
+
+### October 12, 2026 Reports
 | Report | Stock | Verdict | R/R | Key Update |
 |--------|-------|---------|-----|------------|
 | [analysis_TBLA_2026-10-12.md](reports/analysis_TBLA_2026-10-12.md) | TBLA | ⚡ Spec Buy | 16.3:1 (mechanical) | Quiet week; volume -45%; CPO slipping |
@@ -304,4 +338,4 @@ BBRI ❌ highest exposure; BMRI ❌ high (foreigners already selling since Sept 
 
 ---
 
-*All analysis is for informational purposes only and does not constitute investment advice. Indonesian equities carry significant currency, political, and liquidity risks. All prices in IDR unless stated. Analysis date: October 5, 2026.*
+*All analysis is for informational purposes only and does not constitute investment advice. Indonesian equities carry significant currency, political, and liquidity risks. All prices in IDR unless stated. Latest analysis date: October 19, 2026.*
