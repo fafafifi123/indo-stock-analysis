@@ -1,15 +1,40 @@
 # Indonesia Stock Hidden Gem Analysis
 ## GARP + Special Situations Framework — IDX Equity Research
 
-**Latest Analysis Date:** October 19, 2026
-**Universe:** 8 IDX-listed Indonesian equities
+**Latest Analysis Date:** October 26, 2026
+**Universe:** 9 IDX-listed Indonesian equities (BEST added Oct 26)
 **Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
 **Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC Indonesia, Katadata/Databoks, Antara News, Samuel Sekuritas, UOB Kay Hian, MNC Sekuritas, StockWatch, PintarSaham, Bank Indonesia, MSCI/FTSE Russell index announcements
 
 ---
 
 
-## 🆕 October 19, 2026 — Weekly Update (MSCI Shock Week)
+## 🆕 October 26, 2026 — Weekly Update (Rebound Week)
+
+> ### Read first
+> **IHSG rebounded +4.90% to 5,439.26 (Fri Oct 23)** from the Oct 16 crash close of 5,185.11, after touching 4,907 on Monday. **BI held at 5.75%** on Oct 21 (5th hold) but raised the deposit facility rate to 5.00% and will cut the GWM ratio from Nov 1. **Foreigners still sold Rp6.67tn net on the week** (YTD Rp94.87tn): the bounce is domestic-led. IDR 18,080. Brent US$116.72, coal ~US$150.70, CPO RM4,817. Next events: **FOMC Oct 27-28**, HSC stocks removed from the IHSG **Nov 2**, Q3 results from ~Oct 29.
+>
+> **New this week:** [BEST](reports/analysis_BEST_2026-10-26.md) (Bekasi Fajar Industrial Estate) added to the portfolio; first report is provisional because no price could be found. **Bank rebounds consumed the R/R:** BMRI +15.0% and BBRI +10.2% on the week (closes derived from weekly % moves). ADRO's 2,300 stop was breached on Oct 19 (derived ~2,210), then reclaimed on Oct 20 as its Rp5tn buyback resumed.
+>
+> **Data caveat:** prices for TBLA, TOTL, BMTR, GPRA and BEST are **not found** after Oct 9; BMRI and BBRI closes are derived; ADRO is an Oct 20 intraday print; GOTO is the Oct 22 close. Check your broker quote first.
+
+| Stock | Company | Price (IDR) | Verdict | 6M Target (Base) | Stop | R/R | Score | vs Oct 19 |
+|-------|---------|-------------|---------|------------------|------|-----|-------|-----------|
+| [ADRO](reports/analysis_ADRO_2026-10-26.md) | Alamtri Resources | ~2,400 (Oct 20 intraday) | ⚡ Speculative Buy (conditional) | 3,250 | 2,000 (re-based) | 2.1:1 (3:1 at ≤2,310) | 44 | Stop breached Oct 19, reclaimed; Rp5tn buyback live |
+| [GOTO](reports/analysis_GOTO_2026-10-26.md) | GoTo Gojek Tokopedia | 25 (Oct 22) | ⚡ Speculative Buy | 76 (trading target 38) | 19 | 2.2:1 vs 38 | 44 | +9%; ~1.2x cash/share; #1 volume on Oct 23 |
+| [BBRI](reports/analysis_BBRI_2026-10-26.md) | Bank Rakyat Indonesia | ~2,910 (derived) | 🟡 Hold | 3,430 | 2,640 (re-based) | 1.9:1 | 40 | +10.2%; BI held; foreign still selling |
+| [BMRI](reports/analysis_BMRI_2026-10-26.md) | Bank Mandiri | ~3,900 (derived) | 🟡 Hold | 4,330 | 3,390 (re-based) | 0.84:1 | 37 | +15.0%; back at the old stop; trim candidate |
+| [TBLA](reports/analysis_TBLA_2026-10-26.md) | Tunas Baru Lampung | 610 (Oct 9; no new print) | 🟡 Hold | 1,100 | 580 | 16.3:1 (artifact) | 44 | BI binary resolved; CPO RM4,817; Q3 Oct 30 |
+| [TOTL](reports/analysis_TOTL_2026-10-26.md) | Total Bangun Persada | 1,510 (Oct 9; no new print) | 🟡 Hold | 1,950 | 1,120 | 1.13:1 | 45 | H1 profit +54.6% (Rp269.7bn) verified |
+| [BMTR](reports/analysis_BMTR_2026-10-26.md) | Global Mediacom | 76 (Oct 9; no new print) | 🟡 Hold | 115 | 66 | 3.9:1 (stale) | 33 | Filing unlocated (8th cycle); was 121 on Jul 24 |
+| [GPRA](reports/analysis_GPRA_2026-10-26.md) | Perdana Gapura Prima | 102 (Oct 9; no new print) | 🚫 Avoid | — | 90 | — | 22 | Rights-issue terms still undisclosed |
+| [BEST](reports/analysis_BEST_2026-10-26.md) | Bekasi Fajar Industrial Estate | **not found** | 🟡 Hold (provisional) | not set | at entry | n/c | 34 | **New.** H1 net profit Rp144bn vs -Rp58bn loss; land sales Rp265bn |
+
+*Event watch: **FOMC Oct 27-28**; TOTL Q3 ~Oct 29 (unconfirmed); TBLA/GPRA Q3 Oct 30; banks/ADRO late Oct-Nov (dates unconfirmed); GWM cut and **IHSG HSC exclusion Nov 1-2**; next BI RDG date unverified; MSCI consultation to Apr 30, 2027. Informational only; not investment advice.*
+
+---
+
+## October 19, 2026 — Weekly Update (MSCI Shock Week) *(superseded by Oct 26)*
 
 > ### ⚠️ Read first
 > **IHSG fell 11.57% on Fri Oct 16 to 5,185.11 (-14.91% on the week)** after MSCI opened a consultation to reclassify Indonesia from Emerging to **Standalone** (comments to Apr 30, 2027; decision by Jun 30, 2027). A 30-minute trading halt hit at the open. BBRI (2,640) and BMRI (3,390) each fell ~14.8% in one session, gapping through their Oct 12 stops (2,900 / 3,900). IDR is reported through 18,000; **BI announces Wed Oct 21**. Targets and stops were re-based in the bank reports; the Oct 12 and Oct 5 tables below are superseded where they conflict.
@@ -176,7 +201,20 @@ BBRI ❌ highest exposure; BMRI ❌ high (foreigners already selling since Sept 
 ---
 ## Report Index
 
-### October 19, 2026 Reports (Latest)
+### October 26, 2026 Reports (Latest)
+| Report | Stock | Verdict |
+|--------|-------|---------|
+| [analysis_ADRO_2026-10-26.md](reports/analysis_ADRO_2026-10-26.md) | ADRO | ⚡ Speculative Buy (conditional) |
+| [analysis_GOTO_2026-10-26.md](reports/analysis_GOTO_2026-10-26.md) | GOTO | ⚡ Speculative Buy |
+| [analysis_BBRI_2026-10-26.md](reports/analysis_BBRI_2026-10-26.md) | BBRI | 🟡 Hold |
+| [analysis_BMRI_2026-10-26.md](reports/analysis_BMRI_2026-10-26.md) | BMRI | 🟡 Hold |
+| [analysis_TBLA_2026-10-26.md](reports/analysis_TBLA_2026-10-26.md) | TBLA | 🟡 Hold |
+| [analysis_TOTL_2026-10-26.md](reports/analysis_TOTL_2026-10-26.md) | TOTL | 🟡 Hold |
+| [analysis_BMTR_2026-10-26.md](reports/analysis_BMTR_2026-10-26.md) | BMTR | 🟡 Hold |
+| [analysis_GPRA_2026-10-26.md](reports/analysis_GPRA_2026-10-26.md) | GPRA | 🚫 Avoid |
+| [analysis_BEST_2026-10-26.md](reports/analysis_BEST_2026-10-26.md) | BEST | 🟡 Hold (provisional, new) |
+
+### October 19, 2026 Reports
 | Report | Stock | Verdict |
 |--------|-------|---------|
 | [analysis_ADRO_2026-10-19.md](reports/analysis_ADRO_2026-10-19.md) | ADRO | ⚡ Speculative Buy (conditional) |
