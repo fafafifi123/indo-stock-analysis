@@ -1,15 +1,39 @@
 # Indonesia Stock Hidden Gem Analysis
 ## GARP + Special Situations Framework — IDX Equity Research
 
-**Latest Analysis Date:** October 26, 2026
-**Universe:** 9 IDX-listed Indonesian equities (BEST added Oct 26)
+**Latest Analysis Date:** November 2, 2026
+**Universe:** 8 holdings updated Nov 2 (BEST carried from Oct 26, not on the holdings list)
 **Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
 **Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC Indonesia, Katadata/Databoks, Antara News, Samuel Sekuritas, UOB Kay Hian, MNC Sekuritas, StockWatch, PintarSaham, Bank Indonesia, MSCI/FTSE Russell index announcements
 
 ---
 
 
-## 🆕 October 26, 2026 — Weekly Update (Rebound Week)
+## 🆕 November 2, 2026 — Weekly Update (Rebound Reversed)
+
+> ### Read first
+> **IHSG fell 7.03% on the week to 5,057.05 (Fri Oct 30) and 16.70% in October**, erasing the Oct 23 rebound. The worst day was **Thu Oct 29 (-3.49% to 5,098.05)** after the Fed held at 3.75-4.00% on Oct 28. **HSC stocks leave the IHSG today (Nov 2).**
+>
+> **Earnings:** **BMRI** 9M profit Rp45.5tn (+20.7%) but Q3 alone +14%, NIM ~4.2% (from 4.4%), LAR 6.8% (from 5.8%). **TOTL** 9M profit Rp448.6bn (+51.9%), already above its Rp400bn full-year target. **GOTO** 9M attributable profit Rp1.16tn. BBRI, ADRO, TBLA, GPRA, BMTR Q3 **not located**.
+>
+> **Data caveat:** prices are ADRO 2,440 (Oct 28 close), GOTO 23 (Oct 29 close), BBRI ~2,800 (Oct 30 *open*, single source), BMRI ~3,850 (Oct 26 broker reference). TBLA, TOTL, BMTR, GPRA are carried from Oct 9. Verify your broker quote first.
+
+| Stock | Company | Price (IDR) | Verdict | 6M Target (Base) | Stop | R/R | Score | vs Oct 26 |
+|-------|---------|-------------|---------|------------------|------|-----|-------|-----------|
+| [ADRO](reports/analysis_ADRO_2026-11-02.md) | Alamtri Resources Indonesia | 2,440 (Oct 28 close; Oct 29-30 not found) | ⚡ Speculative Buy (conditional) | 3,250 | 2,000 | 1.84 : 1 | 43 | Held 2,440 while IHSG fell; buyback live |
+| [GOTO](reports/analysis_GOTO_2026-11-02.md) | GoTo Gojek Tokopedia | 23 (Oct 29 close; Oct 30 opened 24) | ⚡ Speculative Buy | 38 | 19 | 3.75 : 1 | 45 | -8% (25 -> 23); 9M profit Rp1.16tn |
+| [BBRI](reports/analysis_BBRI_2026-11-02.md) | Bank Rakyat Indonesia | ~2,800 (Oct 30 open, single source; not a close) | 🟡 Hold | 3,430 | 2,640 | 3.94 : 1 | 40 | ~2,800 vs ~2,910 derived; Q3 not found |
+| [BMRI](reports/analysis_BMRI_2026-11-02.md) | Bank Mandiri | ~3,850 (Oct 26 broker reference; Oct 30 close not found) | 🟡 Hold | 4,330 | 3,390 | 1.04 : 1 | 38 | Q3 beat but NIM/LAR softer; price unverified |
+| [TBLA](reports/analysis_TBLA_2026-11-02.md) | Tunas Baru Lampung | 610 (Oct 9, carried; no newer print found) | 🟡 Hold | 1,100 | 580 | 16.33 : 1 | 44 | No Q3/price found |
+| [TOTL](reports/analysis_TOTL_2026-11-02.md) | Total Bangun Persada | 1,510 (Oct 9, carried; no newer print found) | 🟡 Hold (upgrade to Speculative Buy at ≤1,330) | 1,950 | 1,120 | 1.13 : 1 | 46 | 9M profit +51.9%; price stale |
+| [BMTR](reports/analysis_BMTR_2026-11-02.md) | Global Mediacom | 76 (Oct 9, carried; no newer print found) | 🟡 Hold | 115 | 66 | 3.90 : 1 | 33 | No data (9th cycle) |
+| [GPRA](reports/analysis_GPRA_2026-11-02.md) | Perdana Gapura Prima | 102 (Oct 9, carried; no newer print found) | 🚫 Avoid | — (none set) | 90 | n/a | 22 | Terms still undisclosed |
+
+*Event watch: **Nov 2 HSC removal from IHSG**; remaining Q3 prints (BBRI, ADRO, TBLA, GPRA, BMTR); next BI RDG (date unverified); MSCI consultation to Apr 30, 2027. BEST: [last report Oct 26](reports/analysis_BEST_2026-10-26.md). Informational only; not investment advice.*
+
+---
+
+## October 26, 2026 — Weekly Update (Rebound Week) *(superseded by Nov 2)*
 
 > ### Read first
 > **IHSG rebounded +4.90% to 5,439.26 (Fri Oct 23)** from the Oct 16 crash close of 5,185.11, after touching 4,907 on Monday. **BI held at 5.75%** on Oct 21 (5th hold) but raised the deposit facility rate to 5.00% and will cut the GWM ratio from Nov 1. **Foreigners still sold Rp6.67tn net on the week** (YTD Rp94.87tn): the bounce is domestic-led. IDR 18,080. Brent US$116.72, coal ~US$150.70, CPO RM4,817. Next events: **FOMC Oct 27-28**, HSC stocks removed from the IHSG **Nov 2**, Q3 results from ~Oct 29.
