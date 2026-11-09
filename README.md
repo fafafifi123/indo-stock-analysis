@@ -1,7 +1,7 @@
 # Indonesia Stock Hidden Gem Analysis
 ## GARP + Special Situations Framework — IDX Equity Research
 
-**Latest Analysis Date:** November 2, 2026
+**Latest Analysis Date:** November 9, 2026
 **Universe:** 8 holdings updated Nov 2 (BEST carried from Oct 26, not on the holdings list)
 **Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
 **Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC Indonesia, Katadata/Databoks, Antara News, Samuel Sekuritas, UOB Kay Hian, MNC Sekuritas, StockWatch, PintarSaham, Bank Indonesia, MSCI/FTSE Russell index announcements
@@ -9,7 +9,25 @@
 ---
 
 
-## 🆕 November 2, 2026 — Weekly Update (Rebound Reversed)
+## 🆕 November 9, 2026 — Weekly Update (Index-Only Refresh)
+
+> ### Read first
+> **IHSG closed 5,096.83 on Mon Nov 2 (+0.79%) but opened Fri Nov 6 at ~4,957 (-1.46%)**, led lower by energy and financials (support 4,847 / 4,763). **No new stock-level prices, Q3 filings or foreign-flow data were found this cycle**, so all 8 reports carry the [Nov 2](#november-2-2026--weekly-update-rebound-reversed) price, target, stop, score and verdict unchanged, with an index-risk banner. Verify broker quotes first; stops are more likely to be tested.
+
+| Stock | Report | Verdict (carried) | 6M Target | Stop |
+|-------|--------|-------------------|-----------|------|
+| ADRO | [Nov 9](reports/analysis_ADRO_2026-11-09.md) | ⚡ Speculative Buy (conditional) | 3,250 | 2,000 |
+| GOTO | [Nov 9](reports/analysis_GOTO_2026-11-09.md) | ⚡ Speculative Buy | 38 | 19 |
+| BBRI | [Nov 9](reports/analysis_BBRI_2026-11-09.md) | 🟡 Hold | 3,430 | 2,640 |
+| BMRI | [Nov 9](reports/analysis_BMRI_2026-11-09.md) | 🟡 Hold | 4,330 | 3,390 |
+| TBLA | [Nov 9](reports/analysis_TBLA_2026-11-09.md) | 🟡 Hold | 1,100 | 580 |
+| TOTL | [Nov 9](reports/analysis_TOTL_2026-11-09.md) | 🟡 Hold | 1,950 | 1,120 |
+| BMTR | [Nov 9](reports/analysis_BMTR_2026-11-09.md) | 🟡 Hold | 115 | 66 |
+| GPRA | [Nov 9](reports/analysis_GPRA_2026-11-09.md) | 🚫 Avoid | — | 90 |
+
+---
+
+## November 2, 2026 — Weekly Update (Rebound Reversed) *(superseded by Nov 9)*
 
 > ### Read first
 > **IHSG fell 7.03% on the week to 5,057.05 (Fri Oct 30) and 16.70% in October**, erasing the Oct 23 rebound. The worst day was **Thu Oct 29 (-3.49% to 5,098.05)** after the Fed held at 3.75-4.00% on Oct 28. **HSC stocks leave the IHSG today (Nov 2).**
