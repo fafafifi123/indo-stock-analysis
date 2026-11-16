@@ -1,15 +1,39 @@
 # Indonesia Stock Hidden Gem Analysis
 ## GARP + Special Situations Framework — IDX Equity Research
 
-**Latest Analysis Date:** November 9, 2026
-**Universe:** 8 holdings updated Nov 2 (BEST carried from Oct 26, not on the holdings list)
+**Latest Analysis Date:** November 16, 2026
+**Universe:** 8 holdings updated Nov 16 with verified daily closes (BEST carried from Oct 26, not on the holdings list)
 **Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
 **Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC Indonesia, Katadata/Databoks, Antara News, Samuel Sekuritas, UOB Kay Hian, MNC Sekuritas, StockWatch, PintarSaham, Bank Indonesia, MSCI/FTSE Russell index announcements
 
 ---
 
 
-## 🆕 November 9, 2026 — Weekly Update (Index-Only Refresh)
+## 🆕 November 16, 2026 — Weekly Update (Post-MSCI Relief + Price Audit)
+
+> ### Read first
+> **IHSG +5.82% on the week to 5,344.41 (Fri Nov 13).** MSCI's Nov 12 review kept BBRI, BBCA, BMRI and ASII in Global Standard (BRPT removed, BRMS cut to Small Cap; effective Nov 30), and the market jumped 2.66% that day. Foreign investors were net buyers for the week (~Rp465bn, mostly BBRI Rp616bn and BMRI Rp200bn over Nov 10-12); YTD still -Rp97.6tn. **BI RDG is Nov 17-18.** Coal (US$141) and CPO (RM4,258) fell 7-9% in early November.
+>
+> **⚠️ Price audit:** this cycle pulled verified daily closes for all 8 stocks. The prices carried since Oct 9 for **TBLA (610), BMTR (76), GPRA (102) and TOTL (1,510) were stale**. Verified closes show **TBLA broke its 580 stop on Oct 16** (now 540), **BMTR broke its 66 stop on Oct 16** (low 50; reclaimed 67 on Nov 13), and **GPRA closed below its 90 stop on Nov 3** (now 90). TOTL never hit its stop. Each report has a correction box.
+>
+> **Results:** ADRO 9M profit US$516.6m (+71%) with first aluminium sales; BBRI 9M Rp48.2tn (+16.8%, ROE 19.2%, provision-led); GOTO Q3 profit Rp441bn; TOTL interim dividend Rp40 (**ex-date Nov 17**).
+
+| Stock | Price (Nov 13 close) | Verdict | 6M Target | Stop | R/R | Score | Change |
+|-------|----------------------|---------|-----------|------|-----|-------|--------|
+| [TOTL](reports/analysis_TOTL_2026-11-16.md) | 1,385 | ⚡ Speculative Buy **(upgrade)** | 1,950 | 1,190 | 3.10 : 1 incl. div | 49 | +52% EPS, 43% ROE, zero debt, P/E 7.9x |
+| [BBRI](reports/analysis_BBRI_2026-11-16.md) | 3,060 | ⚡ Speculative Buy **(upgrade)** | 3,600 | 2,780 | 1.93 : 1 (4.7 : 1 at 2,925) | 47 | Broke 2,900 pivot on foreign buying |
+| [ADRO](reports/analysis_ADRO_2026-11-16.md) | 2,480 | ⚡ Speculative Buy (conditional) | 3,300 | 2,180 | 2.73 : 1 | 46 | Q3 beat; pivot 2,520 |
+| [GOTO](reports/analysis_GOTO_2026-11-16.md) | 26 | ⚡ Speculative Buy | 38 | 22 | 3.00 : 1 | 45 | Q3 profit; stop tightened |
+| [BMRI](reports/analysis_BMRI_2026-11-16.md) | 3,890 | 🟡 Hold | 4,330 | 3,540 | 1.26 : 1 | 39 | NIM ~4.0% in Oct; R/R poor after +16% |
+| [BMTR](reports/analysis_BMTR_2026-11-16.md) | 67 | 🔴 Value Trap **(downgrade)** | 90 (tactical) | 58 | 2.56 : 1 | 30 | Stop hit Oct 16; FCF negative |
+| [TBLA](reports/analysis_TBLA_2026-11-16.md) | 540 | 🔴 Value Trap **(downgrade; exit)** | withdrawn | 480 (re-entry) | n/a | 24 | Stop hit Oct 16; CPO -9% |
+| [GPRA](reports/analysis_GPRA_2026-11-16.md) | 90 | 🚫 Avoid (Value Trap) | — | 90 (hit Nov 3) | n/a | 19 | Rights terms still undisclosed |
+
+*No stock clears the 55-point Gem threshold. Event watch: **BI RDG Nov 17-18**, TOTL ex-dividend Nov 17, MSCI changes effective Nov 30, FOMC Dec. Informational only; not investment advice.*
+
+---
+
+## November 9, 2026 — Weekly Update (Index-Only Refresh) *(superseded by Nov 16; TBLA/TOTL/BMTR/GPRA prices in it were stale)*
 
 > ### Read first
 > **IHSG closed 5,096.83 on Mon Nov 2 (+0.79%) but opened Fri Nov 6 at ~4,957 (-1.46%)**, led lower by energy and financials (support 4,847 / 4,763). **No new stock-level prices, Q3 filings or foreign-flow data were found this cycle**, so all 8 reports carry the [Nov 2](#november-2-2026--weekly-update-rebound-reversed) price, target, stop, score and verdict unchanged, with an index-risk banner. Verify broker quotes first; stops are more likely to be tested.
@@ -243,7 +267,19 @@ BBRI ❌ highest exposure; BMRI ❌ high (foreigners already selling since Sept 
 ---
 ## Report Index
 
-### October 26, 2026 Reports (Latest)
+### November 16, 2026 Reports (Latest)
+| Report | Stock | Verdict |
+|--------|-------|---------|
+| [analysis_TOTL_2026-11-16.md](reports/analysis_TOTL_2026-11-16.md) | TOTL | ⚡ Speculative Buy (upgrade) |
+| [analysis_BBRI_2026-11-16.md](reports/analysis_BBRI_2026-11-16.md) | BBRI | ⚡ Speculative Buy (upgrade) |
+| [analysis_ADRO_2026-11-16.md](reports/analysis_ADRO_2026-11-16.md) | ADRO | ⚡ Speculative Buy (conditional) |
+| [analysis_GOTO_2026-11-16.md](reports/analysis_GOTO_2026-11-16.md) | GOTO | ⚡ Speculative Buy |
+| [analysis_BMRI_2026-11-16.md](reports/analysis_BMRI_2026-11-16.md) | BMRI | 🟡 Hold |
+| [analysis_BMTR_2026-11-16.md](reports/analysis_BMTR_2026-11-16.md) | BMTR | 🔴 Value Trap (downgrade) |
+| [analysis_TBLA_2026-11-16.md](reports/analysis_TBLA_2026-11-16.md) | TBLA | 🔴 Value Trap (downgrade; stop triggered) |
+| [analysis_GPRA_2026-11-16.md](reports/analysis_GPRA_2026-11-16.md) | GPRA | 🚫 Avoid |
+
+### October 26, 2026 Reports
 | Report | Stock | Verdict |
 |--------|-------|---------|
 | [analysis_ADRO_2026-10-26.md](reports/analysis_ADRO_2026-10-26.md) | ADRO | ⚡ Speculative Buy (conditional) |
@@ -418,4 +454,4 @@ BBRI ❌ highest exposure; BMRI ❌ high (foreigners already selling since Sept 
 
 ---
 
-*All analysis is for informational purposes only and does not constitute investment advice. Indonesian equities carry significant currency, political, and liquidity risks. All prices in IDR unless stated. Latest analysis date: October 19, 2026.*
+*All analysis is for informational purposes only and does not constitute investment advice. Indonesian equities carry significant currency, political, and liquidity risks. All prices in IDR unless stated. Latest analysis date: November 16, 2026.*
