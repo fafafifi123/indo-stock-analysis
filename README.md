@@ -1,15 +1,37 @@
 # Indonesia Stock Hidden Gem Analysis
 ## GARP + Special Situations Framework — IDX Equity Research
 
-**Latest Analysis Date:** November 16, 2026
-**Universe:** 8 holdings updated Nov 16 with verified daily closes (BEST carried from Oct 26, not on the holdings list)
+**Latest Analysis Date:** November 23, 2026
+**Universe:** 8 holdings updated Nov 23 with verified daily closes (to Fri Nov 20) (BEST carried from Oct 26, not on the holdings list)
 **Framework:** GARP Quality Filter + Bandarmology + Valuation (DCF) + Stress Testing
-**Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC Indonesia, Katadata/Databoks, Antara News, Samuel Sekuritas, UOB Kay Hian, MNC Sekuritas, StockWatch, PintarSaham, Bank Indonesia, MSCI/FTSE Russell index announcements
+**Data Sources:** IDX filings, IDNFinancials, Stockbit, Bareksa, Investing.com, TradingView, Yahoo Finance, Bloomberg, CNBC Indonesia, Katadata/Databoks, Antara News, Samuel Sekuritas, UOB Kay Hian, MNC Sekuritas, StockWatch, PintarSaham, Kontan, Investortrust, Bisnis.com, Bank Indonesia, MSCI/FTSE Russell index announcements
 
 ---
 
 
-## 🆕 November 16, 2026 — Weekly Update (Post-MSCI Relief + Price Audit)
+## 🆕 November 23, 2026 — Weekly Update (BI Hikes to 6.00%)
+
+> ### Read first
+> **Bank Indonesia surprised with a 25bp hike to 6.00% at the Nov 17-18 RDG** (17 of 27 economists polled by Reuters expected a hold). The stated aim was rupiah stability ahead of possible Fed tightening. **IHSG fell five straight sessions, -3.70% on the week to 5,146.33** (Fri Nov 20), giving back most of the post-MSCI rally. Foreigners net sold Rp484bn (Nov 17) and Rp443bn (Nov 18); on Nov 18 they sold **BBRI Rp322.8bn and BMRI Rp152.1bn** and bought BBCA. Weekly flow total not found. IDR ~18,200-18,300.
+>
+> **Stock moves (verified closes):** GOTO **+3.8%** (best accumulation pattern in the set, pressing the 28 pivot); BBRI +0.7%; BMRI flat; TBLA -2.8%; GPRA -2.2% (now below 90); BMTR -4.5%; ADRO **-6.5%** (2,520 pivot failed, now on 2,280-2,310 support); TOTL **-9.4%** (ex-dividend Rp40 plus heavy selling; CEO replaced at the Nov 16 EGM; FY profit target Rp560bn). **No stop was hit this week.**
+
+| Stock | Price (Nov 20 close) | Verdict | 6M Target | Stop | R/R | Score | Change |
+|-------|----------------------|---------|-----------|------|-----|-------|--------|
+| [GOTO](reports/analysis_GOTO_2026-11-23.md) | 27 | ⚡ Speculative Buy | 38 | **24** (raised) | 3.67 : 1 | 48 | Hidden accumulation; pivot 28 |
+| [TOTL](reports/analysis_TOTL_2026-11-23.md) | 1,255 | ⚡ Speculative Buy (on watch) | 1,950 | 1,190 | 10.7 : 1 (near stop) | 47 | Distribution after ex-date; add only >1,300 |
+| [ADRO](reports/analysis_ADRO_2026-11-23.md) | 2,320 | ⚡ Speculative Buy (conditional) | 3,300 | 2,180 | 7.0 : 1 (near stop) | 45 | Pivot failed; insider transfer at ~Rp2,400 |
+| [BBRI](reports/analysis_BBRI_2026-11-23.md) | 3,080 | 🟡 Hold **(downgrade)** | 3,500 | 2,780 | 1.40 : 1 (3.97 : 1 at 2,925) | 43 | BI hike + foreign selling; buy 2,900-2,950 |
+| [BMRI](reports/analysis_BMRI_2026-11-23.md) | 3,890 | 🟡 Hold | 4,250 | 3,540 | 1.03 : 1 | 38 | Flat vs IHSG -3.7%; NIM still falling |
+| [BMTR](reports/analysis_BMTR_2026-11-23.md) | 64 | 🔴 Value Trap | 90 (tactical, only above 76) | 58 | 4.33 : 1 | 29 | Rebound stalled at 70 |
+| [TBLA](reports/analysis_TBLA_2026-11-23.md) | 525 | 🔴 Value Trap (exited) | withdrawn | 480 (re-entry) | n/a | 23 | Most leveraged name; 9M not located |
+| [GPRA](reports/analysis_GPRA_2026-11-23.md) | 88 | 🚫 Avoid (Value Trap) | — | 90 (hit Nov 3) | n/a | 18 | Rights terms still undisclosed |
+
+*No stock clears the 55-point Gem threshold. Closest: GOTO on a close above 28. Event watch: **MSCI changes effective at the Nov 30 close**, December FOMC, December BI RDG. Informational only; not investment advice.*
+
+---
+
+## November 16, 2026 — Weekly Update (Post-MSCI Relief + Price Audit) *(superseded by Nov 23)*
 
 > ### Read first
 > **IHSG +5.82% on the week to 5,344.41 (Fri Nov 13).** MSCI's Nov 12 review kept BBRI, BBCA, BMRI and ASII in Global Standard (BRPT removed, BRMS cut to Small Cap; effective Nov 30), and the market jumped 2.66% that day. Foreign investors were net buyers for the week (~Rp465bn, mostly BBRI Rp616bn and BMRI Rp200bn over Nov 10-12); YTD still -Rp97.6tn. **BI RDG is Nov 17-18.** Coal (US$141) and CPO (RM4,258) fell 7-9% in early November.
@@ -267,7 +289,19 @@ BBRI ❌ highest exposure; BMRI ❌ high (foreigners already selling since Sept 
 ---
 ## Report Index
 
-### November 16, 2026 Reports (Latest)
+### November 23, 2026 Reports (Latest)
+| Report | Stock | Verdict |
+|--------|-------|---------|
+| [analysis_GOTO_2026-11-23.md](reports/analysis_GOTO_2026-11-23.md) | GOTO | ⚡ Speculative Buy (stop raised to 24) |
+| [analysis_TOTL_2026-11-23.md](reports/analysis_TOTL_2026-11-23.md) | TOTL | ⚡ Speculative Buy (on watch) |
+| [analysis_ADRO_2026-11-23.md](reports/analysis_ADRO_2026-11-23.md) | ADRO | ⚡ Speculative Buy (conditional) |
+| [analysis_BBRI_2026-11-23.md](reports/analysis_BBRI_2026-11-23.md) | BBRI | 🟡 Hold (downgrade) |
+| [analysis_BMRI_2026-11-23.md](reports/analysis_BMRI_2026-11-23.md) | BMRI | 🟡 Hold |
+| [analysis_BMTR_2026-11-23.md](reports/analysis_BMTR_2026-11-23.md) | BMTR | 🔴 Value Trap |
+| [analysis_TBLA_2026-11-23.md](reports/analysis_TBLA_2026-11-23.md) | TBLA | 🔴 Value Trap (exited) |
+| [analysis_GPRA_2026-11-23.md](reports/analysis_GPRA_2026-11-23.md) | GPRA | 🚫 Avoid |
+
+### November 16, 2026 Reports
 | Report | Stock | Verdict |
 |--------|-------|---------|
 | [analysis_TOTL_2026-11-16.md](reports/analysis_TOTL_2026-11-16.md) | TOTL | ⚡ Speculative Buy (upgrade) |
